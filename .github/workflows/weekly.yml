@@ -1,0 +1,41 @@
+name: weekly-check
+on:
+  schedule:
+    - cron: "17 13 * * 1"   # Mondays 13:17 UTC (about 7 AM in Utah)
+  workflow_dispatch: {}      # "Run workflow" button for manual runs
+permissions:
+  contents: write            # commit data/ and docs/
+  actions: write             # keep this schedule switched on (see last step)
+concurrency:
+  group: weekly-check
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements-dev.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Offline tests
+        run: python -m pytest -q
+      - run: python -m cfpbot
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+      - name: Commit results
+        run: |
+          git config user.name "cfp-bot"
+          git config user.email "cfp-bot@users.noreply.github.com"
+          git add data docs
+          git commit -m "Weekly check $(date -u +%F)" || echo "No changes"
+          git push
+      - name: Keep the weekly schedule switched on
+        # GitHub disables schedules in public repos after 60 days without activity;
+        # re-enabling the workflow on every run resets that timer.
+        if: always()
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/weekly.yml/enable" || true
+        env:
+          GH_TOKEN: ${{ github.token }}

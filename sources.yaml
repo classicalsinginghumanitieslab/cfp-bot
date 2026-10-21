@@ -1,0 +1,110 @@
+# Conference & CFP Calendar Bot — the sites to check.
+#
+# To add a site, copy one entry and change it. Fields:
+#   id          short unique name, lowercase with dashes (used in event IDs — don't change it later)
+#   name        full name shown on conference events
+#   short       short name shown on reminder events (optional; defaults to name)
+#   urls        one or more start pages
+#   hints       anything the reader should know about this site (optional)
+#   regions     only keep these regions, for sites that list many (optional)
+#   link_keywords   words to look for when following links (optional; replaces the defaults)
+#   max_links   how many extra pages to follow from the start pages (optional; default 5, 0 = none)
+#   manual      dates typed in by hand, for sites the bot can't read (optional), e.g.
+#                 manual:
+#                   - edition: "2027"
+#                     start_date: 2027-06-01
+#                     end_date: 2027-06-04
+#                     location: Chicago, IL
+#                     cfp_deadline: 2027-01-15
+#                     cfp_url: https://example.org/call
+#                     info_url: https://example.org/meeting
+
+settings:
+  feed_url: https://classicalsinginghumanitieslab.github.io/cfp-bot/conferences.ics
+  calendar_name: Conferences & CFPs
+  reminder_days: [30, 7]
+  keep_after_end_days: 365
+  failure_alert_after: 3      # weeks of failure before a "Bot couldn't read" event
+
+sources:
+  - id: nats-national
+    name: NATS National Conference
+    short: NATS National
+    urls: [https://www.nats.org/national_conference.html]
+    link_keywords: [call for, proposals, presentation, poster]
+    hints: >-
+      The call for presentations is often on a linked page. The page has a long side menu
+      listing other NATS events (workshops, competitions); report only the National Conference.
+
+  - id: nats-calwest
+    name: NATS Cal-Western Region Conference
+    short: NATS Cal-Western
+    urls: [https://www.calwestnats.org/reg-conference]
+
+  - id: icvt
+    name: International Congress of Voice Teachers
+    short: ICVT
+    urls: [https://www.nats.org/international-congress-of-voice-teachers.html]
+    link_keywords: [icvt, congress, call for, proposals]
+    hints: >-
+      Held every 4 years; the page may show nothing upcoming for long stretches. The page has
+      a long side menu listing other NATS events; report only the International Congress.
+
+  - id: pava
+    name: PAVA Symposium
+    short: PAVA
+    urls: [https://pavavocology.org, https://pavasymposium.org/]
+    hints: The symposium has its own site, pavasymposium.org.
+
+  - id: tvf
+    name: Voice Foundation Annual Symposium
+    short: Voice Foundation
+    urls: [https://www.voicefoundation.org/]
+    hints: The call for abstracts is the call for presentations.
+
+  - id: fall-voice
+    name: Fall Voice Conference
+    short: Fall Voice
+    urls: [https://www.fallvoice.org/]
+    hints: A medical meeting; its call is usually for abstracts.
+
+  - id: sin-city
+    name: Sin City Laryngology
+    short: Sin City
+    urls: [https://sincitylaryngology.com/]
+    hints: A medical meeting; its call is usually for abstracts.
+
+  - id: nw-voice
+    name: Northwest Voice
+    short: NW Voice
+    urls: [https://www.northwestvoice.org/]
+
+  - id: cms-national
+    name: CMS National Conference
+    short: CMS National
+    urls: [https://www.music.org/events/national-conferences.html]
+    link_keywords: [overview, call for, proposals, submission]
+    hints: Lists several future years; report each one as its own edition.
+
+  - id: cms-regional
+    name: CMS Chapter Conference
+    short: CMS Chapter
+    urls: [https://www.music.org/events/chapter-conferences.html]
+    regions: [Southwest, Northwest]
+    link_keywords: [southwest, northwest]
+    hints: >-
+      One page lists every regional chapter. Report each chapter as its own edition,
+      with the chapter name (for example "Southwest") as the region. "Cut off date"
+      is the registration cut-off, not a call-for-presentations deadline.
+
+  - id: cms-international
+    name: CMS International Conference
+    short: CMS International
+    urls: [https://www.music.org/events/international-conferences.html]
+    link_keywords: [overview, call for, proposals, submission]
+
+  - id: mla
+    name: Music Library Association Annual Meeting
+    short: MLA
+    urls: [https://www.musiclibraryassoc.org/page/Meetings]
+    hints: Membership-platform site.
