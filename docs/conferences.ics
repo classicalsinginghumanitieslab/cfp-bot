@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:CMS International Conference — Reykjavík\, Iceland
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270613
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:cms-international-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: CMS International Conference
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:cms-international-2027-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:CMS National Conference — Grand Rapids Amway Grand Plaza
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:cms-national-2026-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: CMS National Conference
 DTSTART;VALUE=DATE:20260105
 DTEND;VALUE=DATE:20260106
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:cms-national-2026-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:CMS National Conference — Hilton Denver City Center
 DTSTART;VALUE=DATE:20271104
 DTEND;VALUE=DATE:20271107
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:cms-national-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:CMS National Conference — Manchester Grand Hyatt San Diego
 DTSTART;VALUE=DATE:20281116
 DTEND;VALUE=DATE:20281120
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:cms-national-2028-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:CMS Chapter Conference (Northwest) — Pacific Lutheran University
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:cms-regional-2027-northwest-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: CMS Chapter Conference (Northwest)
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:cms-regional-2027-northwest-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:CMS Chapter Conference (Southwest) — Southern Utah University
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:cms-regional-2027-southwest-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: CMS Chapter Conference (Southwest)
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:cms-regional-2027-southwest-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Voice Conference — Minneapolis\, MN
 DTSTART;VALUE=DATE:20271021
 DTEND;VALUE=DATE:20271024
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:fall-voice-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -285,27 +285,30 @@ TRANSP:TRANSPARENT
 URL:https://www.fallvoice.org/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Music Library Association Annual Meeting — Detroit\, Michigan
+SUMMARY:Music Library Association Annual Meeting — Westin Book Cadillac 
+ Hotel in Detroit\, Michigan
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:mla-2027-conference@cfp-bot
-SEQUENCE:0
+SEQUENCE:1
 CREATED:20261021T000000Z
-DESCRIPTION:96th Annual Meeting\nConference: Mar 3\, 2027 – Mar 6\, 2027
- \nLocation: Detroit\, Michigan (in-person)\nCFP deadline: Nov 7\, 2026\, 1
- 1:59pm PDT (proposal)\nCFP note: Community Choice Call for Proposals and S
- econd Call for Poster Proposals\nCFP link: https://conferences.wp.musiclib
- raryassoc.org/community-choice-call/\nConference info: https://conferences
- .wp.musiclibraryassoc.org/\nEvidence: “March 3-6\, 2027\, Detroit\, Mich
- igan”\nEvidence: “The Program Committee invites proposals for the Comm
- unity Choice session\, as well as additional poster proposals\, by 11:59pm
-  PDT on Saturday\, November 7\, 2026.”\nConfidence: high\nLast checked: 
- Oct 21\, 2026 — not re-checked this week (https://www.musiclibraryassoc.
- org/page/Meetings: HTTP 403 (browser))\nSource: https://www.musiclibraryas
- soc.org/page/Meetings
-LAST-MODIFIED:20261021T000000Z
-LOCATION:Detroit\, Michigan
+DESCRIPTION:96th Annual Meeting of the Music Library Association\nConferen
+ ce: Mar 3\, 2027 – Mar 6\, 2027\nLocation: Westin Book Cadillac Hotel in
+  Detroit\, Michigan (in-person)\nCFP deadline: Nov 7\, 2026\, 11:59pm PDT 
+ (proposal)\nCFP note: Community Choice session proposals and second call f
+ or poster proposals\nCFP link: https://conferences.wp.musiclibraryassoc.or
+ g/community-choice-call/\nConference info: https://conferences.wp.musiclib
+ raryassoc.org/\nEvidence: “The 96th Annual Meeting of the Music Library 
+ Association is scheduled to be held at the Westin Book Cadillac Hotel in D
+ etroit\, Michigan\, March 3 – 6\, 2027.”\nEvidence: “The Program Com
+ mittee invites proposals for the Community Choice session\, as well as add
+ itional poster proposals\, by 11:59pm PDT on Saturday\, November 7\, 2026.
+ ”\nConfidence: high\nLast checked: Oct 22\, 2026\nChanged Oct 22: locati
+ on changed from Detroit\, Michigan to Westin Book Cadillac Hotel in Detroi
+ t\, Michigan\nSource: https://conferences.wp.musiclibraryassoc.org/
+LAST-MODIFIED:20261022T000000Z
+LOCATION:Westin Book Cadillac Hotel in Detroit\, Michigan
 TRANSP:TRANSPARENT
 URL:https://conferences.wp.musiclibraryassoc.org/
 END:VEVENT
@@ -313,23 +316,25 @@ BEGIN:VEVENT
 SUMMARY:CFP due: Music Library Association Annual Meeting
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:mla-2027-cfp@cfp-bot
-SEQUENCE:0
+SEQUENCE:1
 CREATED:20261021T000000Z
-DESCRIPTION:96th Annual Meeting\nConference: Mar 3\, 2027 – Mar 6\, 2027
- \nLocation: Detroit\, Michigan (in-person)\nCFP deadline: Nov 7\, 2026\, 1
- 1:59pm PDT (proposal)\nCFP note: Community Choice Call for Proposals and S
- econd Call for Poster Proposals\nCFP link: https://conferences.wp.musiclib
- raryassoc.org/community-choice-call/\nConference info: https://conferences
- .wp.musiclibraryassoc.org/\nEvidence: “The Program Committee invites pro
- posals for the Community Choice session\, as well as additional poster pro
- posals\, by 11:59pm PDT on Saturday\, November 7\, 2026.”\nEvidence: “
- March 3-6\, 2027\, Detroit\, Michigan”\nConfidence: high\nLast checked: 
- Oct 21\, 2026 — not re-checked this week (https://www.musiclibraryassoc.
- org/page/Meetings: HTTP 403 (browser))\nSource: https://www.musiclibraryas
- soc.org/page/Meetings
-LAST-MODIFIED:20261021T000000Z
+DESCRIPTION:96th Annual Meeting of the Music Library Association\nConferen
+ ce: Mar 3\, 2027 – Mar 6\, 2027\nLocation: Westin Book Cadillac Hotel in
+  Detroit\, Michigan (in-person)\nCFP deadline: Nov 7\, 2026\, 11:59pm PDT 
+ (proposal)\nCFP note: Community Choice session proposals and second call f
+ or poster proposals\nCFP link: https://conferences.wp.musiclibraryassoc.or
+ g/community-choice-call/\nConference info: https://conferences.wp.musiclib
+ raryassoc.org/\nEvidence: “The Program Committee invites proposals for t
+ he Community Choice session\, as well as additional poster proposals\, by 
+ 11:59pm PDT on Saturday\, November 7\, 2026.”\nEvidence: “The 96th Ann
+ ual Meeting of the Music Library Association is scheduled to be held at th
+ e Westin Book Cadillac Hotel in Detroit\, Michigan\, March 3 – 6\, 2027.
+ ”\nConfidence: high\nLast checked: Oct 22\, 2026\nChanged Oct 22: locati
+ on changed from Detroit\, Michigan to Westin Book Cadillac Hotel in Detroi
+ t\, Michigan\nSource: https://conferences.wp.musiclibraryassoc.org/
+LAST-MODIFIED:20261022T000000Z
 TRANSP:TRANSPARENT
 URL:https://conferences.wp.musiclibraryassoc.org/community-choice-call/
 BEGIN:VALARM
@@ -347,23 +352,25 @@ BEGIN:VEVENT
 SUMMARY:CFP in 7 days: MLA
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:mla-2027-cfp-7d@cfp-bot
-SEQUENCE:0
+SEQUENCE:1
 CREATED:20261021T000000Z
-DESCRIPTION:96th Annual Meeting\nConference: Mar 3\, 2027 – Mar 6\, 2027
- \nLocation: Detroit\, Michigan (in-person)\nCFP deadline: Nov 7\, 2026\, 1
- 1:59pm PDT (proposal)\nCFP note: Community Choice Call for Proposals and S
- econd Call for Poster Proposals\nCFP link: https://conferences.wp.musiclib
- raryassoc.org/community-choice-call/\nConference info: https://conferences
- .wp.musiclibraryassoc.org/\nEvidence: “The Program Committee invites pro
- posals for the Community Choice session\, as well as additional poster pro
- posals\, by 11:59pm PDT on Saturday\, November 7\, 2026.”\nEvidence: “
- March 3-6\, 2027\, Detroit\, Michigan”\nConfidence: high\nLast checked: 
- Oct 21\, 2026 — not re-checked this week (https://www.musiclibraryassoc.
- org/page/Meetings: HTTP 403 (browser))\nSource: https://www.musiclibraryas
- soc.org/page/Meetings
-LAST-MODIFIED:20261021T000000Z
+DESCRIPTION:96th Annual Meeting of the Music Library Association\nConferen
+ ce: Mar 3\, 2027 – Mar 6\, 2027\nLocation: Westin Book Cadillac Hotel in
+  Detroit\, Michigan (in-person)\nCFP deadline: Nov 7\, 2026\, 11:59pm PDT 
+ (proposal)\nCFP note: Community Choice session proposals and second call f
+ or poster proposals\nCFP link: https://conferences.wp.musiclibraryassoc.or
+ g/community-choice-call/\nConference info: https://conferences.wp.musiclib
+ raryassoc.org/\nEvidence: “The Program Committee invites proposals for t
+ he Community Choice session\, as well as additional poster proposals\, by 
+ 11:59pm PDT on Saturday\, November 7\, 2026.”\nEvidence: “The 96th Ann
+ ual Meeting of the Music Library Association is scheduled to be held at th
+ e Westin Book Cadillac Hotel in Detroit\, Michigan\, March 3 – 6\, 2027.
+ ”\nConfidence: high\nLast checked: Oct 22\, 2026\nChanged Oct 22: locati
+ on changed from Detroit\, Michigan to Westin Book Cadillac Hotel in Detroi
+ t\, Michigan\nSource: https://conferences.wp.musiclibraryassoc.org/
+LAST-MODIFIED:20261022T000000Z
 TRANSP:TRANSPARENT
 URL:https://conferences.wp.musiclibraryassoc.org/community-choice-call/
 END:VEVENT
@@ -372,7 +379,7 @@ SUMMARY:NATS Cal-Western Region Conference — UNLV (University of Nevada
  \, Las Vegas)\, Las Vegas\, Nevada
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:nats-calwest-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -393,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:NATS National Conference — Baltimore\, Maryland
 DTSTART;VALUE=DATE:20280616
 DTEND;VALUE=DATE:20280621
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:nats-national-2028-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -411,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:Northwest Voice — Seattle\, Washington
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:nw-voice-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -431,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: Northwest Voice
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:nw-voice-2027-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -460,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:CFP in 30 days: NW Voice
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:nw-voice-2027-cfp-30d@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -479,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:CFP in 7 days: NW Voice
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:nw-voice-2027-cfp-7d@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -498,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:Sin City Laryngology — Las Vegas
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:sin-city-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -516,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:Voice Foundation Annual Symposium — Philadelphia\, Pennsylvania
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270607
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:tvf-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -538,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: Voice Foundation Annual Symposium
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:tvf-2027-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -569,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:CFP in 7 days: Voice Foundation
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261022T032839Z
+DTSTAMP:20261022T033305Z
 UID:tvf-2027-cfp-7d@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z

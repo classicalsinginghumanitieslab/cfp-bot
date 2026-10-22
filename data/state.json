@@ -208,28 +208,35 @@
       "cfp_deadline": "2026-11-07",
       "cfp_deadline_time": "11:59pm PDT",
       "cfp_kind": "proposal",
-      "cfp_note": "Community Choice Call for Proposals and Second Call for Poster Proposals",
+      "cfp_note": "Community Choice session proposals and second call for poster proposals",
       "cfp_url": "https://conferences.wp.musiclibraryassoc.org/community-choice-call/",
       "confidence": "high",
       "edition": "2027",
       "end_date": "2027-03-06",
       "evidence": {
         "cfp_deadline": "The Program Committee invites proposals for the Community Choice session, as well as additional poster proposals, by 11:59pm PDT on Saturday, November 7, 2026.",
-        "end_date": "March 3-6, 2027, Detroit, Michigan",
-        "start_date": "March 3-6, 2027, Detroit, Michigan"
+        "end_date": "The 96th Annual Meeting of the Music Library Association is scheduled to be held at the Westin Book Cadillac Hotel in Detroit, Michigan, March 3 – 6, 2027.",
+        "start_date": "The 96th Annual Meeting of the Music Library Association is scheduled to be held at the Westin Book Cadillac Hotel in Detroit, Michigan, March 3 – 6, 2027."
       },
       "first_seen": "2026-10-21",
       "format": "in-person",
-      "history": [],
+      "history": [
+        {
+          "date": "2026-10-22",
+          "field": "location",
+          "new": "Westin Book Cadillac Hotel in Detroit, Michigan",
+          "old": "Detroit, Michigan"
+        }
+      ],
       "info_url": "https://conferences.wp.musiclibraryassoc.org/",
       "issues": [],
-      "last_changed": "2026-10-21",
-      "last_checked": "2026-10-21",
-      "location": "Detroit, Michigan",
+      "last_changed": "2026-10-22",
+      "last_checked": "2026-10-22",
+      "location": "Westin Book Cadillac Hotel in Detroit, Michigan",
       "missing_since": null,
-      "name": "96th Annual Meeting",
+      "name": "96th Annual Meeting of the Music Library Association",
       "region": null,
-      "sequence": 0,
+      "sequence": 1,
       "source_id": "mla",
       "start_date": "2027-03-03"
     },
@@ -721,19 +728,19 @@
       "used_browser": false
     },
     "mla": {
-      "consecutive_failures": 1,
-      "fingerprint": "43d45da47d3771377e78e52236f10b05fb9041c9910ce8901df07211bc48c273",
+      "consecutive_failures": 0,
+      "fingerprint": "b565e7ec28f46cf2aab88c0144bfcd1bad40458bbb549ed8f40b8ad920998b6e",
       "last_attempt": "2026-10-22",
-      "last_error": "https://www.musiclibraryassoc.org/page/Meetings: HTTP 403 (browser)",
-      "last_result": "failed",
-      "last_success": "2026-10-21",
-      "model": "gemini-3.5-flash-lite",
-      "notes": [],
+      "last_error": null,
+      "last_result": "ok",
+      "last_success": "2026-10-22",
+      "model": "gemini-3.8-flash",
+      "notes": [
+        "https://www.musiclibraryassoc.org/page/Meetings: HTTP 403 (browser)"
+      ],
       "pages": [
-        "https://www.musiclibraryassoc.org/page/Meetings",
-        "https://www.musiclibraryassoc.org/page/OAGuidelines",
-        "https://www.musiclibraryassoc.org/page/BusinessMeetings",
         "https://conferences.wp.musiclibraryassoc.org/",
+        "https://conferences.wp.musiclibraryassoc.org/community-choice-call/",
         "https://conferences.wp.musiclibraryassoc.org/2026conference/"
       ],
       "raw_editions": [
@@ -741,19 +748,19 @@
           "cfp_deadline": "2026-11-07",
           "cfp_deadline_time": "11:59pm PDT",
           "cfp_kind": "proposal",
-          "cfp_note": "Community Choice Call for Proposals and Second Call for Poster Proposals",
+          "cfp_note": "Community Choice session proposals and second call for poster proposals",
           "cfp_url": "https://conferences.wp.musiclibraryassoc.org/community-choice-call/",
           "confidence": "high",
           "end_date": "2027-03-06",
           "evidence": {
             "cfp_deadline": "The Program Committee invites proposals for the Community Choice session, as well as additional poster proposals, by 11:59pm PDT on Saturday, November 7, 2026.",
-            "end_date": "March 3-6, 2027, Detroit, Michigan",
-            "start_date": "March 3-6, 2027, Detroit, Michigan"
+            "end_date": "The 96th Annual Meeting of the Music Library Association is scheduled to be held at the Westin Book Cadillac Hotel in Detroit, Michigan, March 3 – 6, 2027.",
+            "start_date": "The 96th Annual Meeting of the Music Library Association is scheduled to be held at the Westin Book Cadillac Hotel in Detroit, Michigan, March 3 – 6, 2027."
           },
           "format": "in-person",
           "info_url": "https://conferences.wp.musiclibraryassoc.org/",
-          "location": "Detroit, Michigan",
-          "name": "96th Annual Meeting",
+          "location": "Westin Book Cadillac Hotel in Detroit, Michigan",
+          "name": "96th Annual Meeting of the Music Library Association",
           "region": null,
           "start_date": "2027-03-03",
           "year": "2027"
