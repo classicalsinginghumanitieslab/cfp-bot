@@ -106,5 +106,9 @@ sources:
   - id: mla
     name: Music Library Association Annual Meeting
     short: MLA
-    urls: [https://www.musiclibraryassoc.org/page/Meetings]
-    hints: Membership-platform site.
+    urls:
+      - https://conferences.wp.musiclibraryassoc.org/
+      - https://www.musiclibraryassoc.org/page/Meetings
+    hints: >-
+      The first site is the conference's own site. The second (membership platform) often
+      blocks the bot; that's expected.
