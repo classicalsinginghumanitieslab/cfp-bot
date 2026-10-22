@@ -1,10 +1,6 @@
 === PAGE: https://www.nats.org/national_conference.html ===
 National Conference | National Association of Teachers of Singing
-Get Involved
->
-Conferences + Workshops
->
-National Conference
+Get Involved > Conferences + Workshops > National Conference
 NATS National Conference
 The biennial NATS National Conference attracts NATS members and others from around the world to share in programs, demonstrations, lectures, master classes and competitions that help celebrate the art of singing and increase knowledge of teachers to help them better assist their students.
 Join us for our next National Conference!
@@ -12,8 +8,7 @@ June 16 - 20, 2028 - Baltimore, Maryland
 Hilton Baltimore Inner Harbor
 401 West Pratt Street, Baltimore, Maryland, 21201, USA
 Future Conference:
-Summer 2030 -
-To be announced
+Summer 2030 - To be announced
 Past Conferences:
 July 3-7, 2026 - San Antonio, Texas
 June 28-July 2, 2024 - Knoxville, Tennessee

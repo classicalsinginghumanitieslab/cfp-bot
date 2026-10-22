@@ -105,6 +105,16 @@ def validate_editions(source: Source, raw_editions: list[dict], combined_text: s
                 if url:
                     issues.append(f"{f} {url} dropped: not a link on the page")
 
+        if rec["location"]:
+            # Every comma-separated part of the location must be on the page (catches typos
+            # like "Reykjavck"); otherwise drop it and the last known value is kept.
+            missing = [p for p in (x.strip() for x in rec["location"].split(","))
+                       if len(p) >= 3 and not contains_quote(page, p)]
+            if missing:
+                issues.append(f"location {rec['location']!r} dropped: "
+                              f"{', '.join(missing)!r} not on the page")
+                rec["location"] = None
+
         dates: dict[str, date | None] = {}
         for f in DATE_FIELDS:
             d = parse_iso(raw.get(f))
@@ -115,7 +125,7 @@ def validate_editions(source: Source, raw_editions: list[dict], combined_text: s
                 issues.append(f"{f} {d} dropped: no quote given")
                 d = None
             elif d is not None and not contains_quote(page, quote):
-                issues.append(f"{f} {d} dropped: its quote is not on the page")
+                issues.append(f"{f} {d} dropped: its quote is not on the page (“{quote[:120]}”)")
                 d = None
             elif d is not None and d > horizon:
                 issues.append(f"{f} {d} dropped: more than {MAX_YEARS_AHEAD} years ahead")

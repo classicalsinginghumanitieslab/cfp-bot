@@ -9,6 +9,7 @@ from .textnorm import contains_quote
 
 TRACKED = ("start_date", "end_date", "location", "format", "cfp_deadline", "cfp_deadline_time",
            "cfp_url", "info_url")
+SILENT = {"cfp_url", "info_url", "format"}  # updated without a change note: Gemini's choice varies
 CARRIED = ("name", "region", "cfp_kind", "cfp_note", "confidence", "issues", "manual")
 
 
@@ -71,17 +72,20 @@ def merge_records(state: dict, source_id: str, new_records: list[dict], today: d
                 continue
             if nv is None and ov is not None and not manual:
                 # Missing this week: keep last known value; trust it only if its quote is still there.
-                issues.append(f"{f} not found this week; showing last known value")
+                if f not in SILENT:
+                    issues.append(f"{f} not found this week; showing last known value")
                 quote = evidence.get(f)
                 if f in ("start_date", "end_date", "cfp_deadline") and page_text is not None \
                         and not (quote and contains_quote(page_text, quote)):
                     confidence = "low"
                 continue
-            old.setdefault("history", []).append({"date": today_s, "field": f, "old": ov, "new": nv})
             old[f] = nv
             if f in (new.get("evidence") or {}):
                 evidence[f] = new["evidence"][f]
-            elif f in evidence and nv is None:
+            if f in SILENT:
+                continue
+            old.setdefault("history", []).append({"date": today_s, "field": f, "old": ov, "new": nv})
+            if f in evidence and nv is None:
                 evidence.pop(f)
             changed = True
             changes.append(f"changed: {key} {f}: {ov} -> {nv}")

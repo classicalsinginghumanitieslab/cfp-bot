@@ -3,6 +3,7 @@ from datetime import date
 from icalendar import Calendar
 
 from cfpbot.config import Source
+from cfpbot.extract import retry_delay_seconds
 from cfpbot.fetch import Page, html_to_page, mentions_only_past_years, pick_links, same_site
 from cfpbot.ics import build_calendar
 from cfpbot.merge import empty_state, merge_records
@@ -40,6 +41,9 @@ def test_quote_matching_ignores_dashes_quotes_spacing():
     assert contains_quote("March 3 – 6, 2027", "March 3-6, 2027")
     assert contains_quote("the “Annual”  Meeting", 'the "annual" meeting')
     assert contains_quote("invites proposals by\n11:59pm", "invites proposals by 11:59pm")
+    assert contains_quote("Care of the Professional Voice\n, to be held June 2-6, 2027",
+                          "Voice, to be held June 2-6, 2027")
+    assert contains_quote("February 17-\n20, 2027", "February 17-20, 2027")
     assert not contains_quote("March 3 – 6, 2027", "March 4-6, 2027")
 
 
@@ -189,3 +193,26 @@ def test_site_helpers():
     assert mentions_only_past_years("presenters 2019 summer", 2026)
     assert not mentions_only_past_years("2027 winter workshop", 2026)
     assert not mentions_only_past_years("annual symposium", 2026)
+
+
+def test_retry_delay_parsing():
+    assert retry_delay_seconds("Please retry in 3h57m48.07s.") == 3 * 3600 + 57 * 60 + 48.07
+    assert retry_delay_seconds("Please retry in 36.5s.") == 36.5
+    assert retry_delay_seconds("no hint here") is None
+
+
+def test_inline_tags_stay_on_one_line():
+    html = ("<div><h2>Annual Symposium</h2><p>June 2<sup>nd</sup> – June 6<sup>th</sup>, 2027"
+            "<br>Philadelphia, <strong>PA</strong></p></div>")
+    lines = html_to_page("https://example.org/", html).text.splitlines()
+    assert lines == ["Annual Symposium", "June 2nd – June 6th, 2027", "Philadelphia, PA"]
+
+
+def test_misspelled_location_dropped():
+    page = PAGE.replace("Detroit, Michigan", "Reykjavík, Iceland")
+    e = edition(location="Reykjavck, Iceland",
+                evidence={**edition()["evidence"], "start_date": "Reykjavík, Iceland, March 3 – 6, 2027"})
+    r = validate_editions(SRC, [e], page, TODAY)[0][0]
+    assert r["location"] is None and any("Reykjavck" in i for i in r["issues"])
+    ok = validate_editions(SRC, [edition(location="Reykjavík, Iceland")], page, TODAY)[0][0]
+    assert ok["location"] == "Reykjavík, Iceland"

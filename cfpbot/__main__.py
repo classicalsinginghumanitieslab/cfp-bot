@@ -58,6 +58,8 @@ def run(argv: list[str] | None = None) -> int:
     ap.add_argument("--today", help=argparse.SUPPRESS)  # for tests: pretend it's this date
     args = ap.parse_args(argv)
     logging.basicConfig(level=logging.INFO, format="%(message)s")
+    for noisy in ("httpx", "google_genai", "google_genai.models"):
+        logging.getLogger(noisy).setLevel(logging.WARNING)
 
     cfg = load_config()
     today = date.fromisoformat(args.today) if args.today else date.today()
@@ -119,25 +121,34 @@ def run(argv: list[str] | None = None) -> int:
                 (cfgmod.FIXTURES_DIR / f"{source.id}.txt").write_text(text, encoding="utf-8")
 
             fp = fingerprint(text, extractor.model)
-            if fp == st.get("fingerprint") and not args.force:
+            unchanged = fp == st.get("fingerprint") and not args.force
+            if unchanged and "raw_editions" not in st:
                 log.info("  unchanged since last good read; skipping Gemini")
                 mark_checked(state, source.id, today)
                 succeed("unchanged")
                 continue
-
-            try:
-                raw = extractor.extract(source, text, today)
-            except ExtractError as e:
-                fail(str(e))
-                continue
+            if unchanged:
+                # Same page as last time: re-check Gemini's stored answer with the current code
+                # (so validation fixes apply) without spending a Gemini call.
+                raw = st["raw_editions"]
+                log.info("  unchanged since last good read; re-checking stored answer")
+            else:
+                try:
+                    raw = extractor.extract(source, text, today)
+                except ExtractError as e:
+                    fail(str(e))
+                    continue
+                st["raw_editions"] = raw
+                st["model"] = extractor.last_model
             records, notes = validate_editions(source, raw, text, today, keep_days)
             st["notes"].extend(notes)
             for line in merge_records(state, source.id, records, today,
                                       page_text=evidence_text(text)):
                 log.info("  %s", line)
             st["fingerprint"] = fp
-            succeed("ok")
-            log.info("  %d edition(s) from Gemini, %d kept", len(raw), len(records))
+            succeed("unchanged" if unchanged else "ok")
+            log.info("  %d edition(s) %s, %d kept", len(raw),
+                     "stored" if unchanged else "from Gemini", len(records))
     finally:
         if fetcher:
             fetcher.close()

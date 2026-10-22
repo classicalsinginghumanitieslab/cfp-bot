@@ -1,10 +1,6 @@
 === PAGE: https://www.musiclibraryassoc.org/page/Meetings ===
 Annual Meetings - Music Library Association
-Donate
-|
-Sign In
-|
-Join
+Donate | Sign In | Join
 music library association
 U.S. Branch of the International Association of Music Libraries, Archives, and Documentation Centres
 Our Profession
@@ -18,106 +14,55 @@ Annual Meetings
 96th Annual Meeting
 March 3-6, 2027, Detroit, Michigan
 Conference website
-All attendees are expected to follow
-MLA's Code of Conduct
-.
-Have questions about the MLA Annual Meeting and how it is managed?
-Check out the Annual Meeting FAQ
-.
+All attendees are expected to follow MLA's Code of Conduct.
+Have questions about the MLA Annual Meeting and how it is managed? Check out the Annual Meeting FAQ.
 Future Meetings
 TBD
 Past Meetings
-2026:
-Salt Lake City, Utah (February 25-28, 2026)
-2025:
-Online (March 17-21, 2025)
-2024:
-Cincinnati, Ohio (February 28-March 2, 2024)
-2023:
-St. Louis, Missouri (March 1-5, 2023)
-2022:
-Online (March 2-6, 2022)
-2021:
-Online (March 1-26, 2021)
-2020:
-Norfolk, Virginia (February 26-March 1, 2020)
-2019:
-St. Louis, Missouri (February 20-24, 2019)
-2018:
-Portland, Oregon (January 31-February 4, 2018)
-2017:
-Orlando, Florida (February 22-26, 2017)
-2016:
-Cincinnati, Ohio (March 2-5, 2016)
-2015:
-Denver, Colorado (February 25-March 1, 2015)
-2014:
-Atlanta, Georgia (February 26–March 2, 2014)
+2026: Salt Lake City, Utah (February 25-28, 2026)
+2025: Online (March 17-21, 2025)
+2024: Cincinnati, Ohio (February 28-March 2, 2024)
+2023: St. Louis, Missouri (March 1-5, 2023)
+2022: Online (March 2-6, 2022)
+2021: Online (March 1-26, 2021)
+2020: Norfolk, Virginia (February 26-March 1, 2020)
+2019: St. Louis, Missouri (February 20-24, 2019)
+2018: Portland, Oregon (January 31-February 4, 2018)
+2017: Orlando, Florida (February 22-26, 2017)
+2016: Cincinnati, Ohio (March 2-5, 2016)
+2015: Denver, Colorado (February 25-March 1, 2015)
+2014: Atlanta, Georgia (February 26–March 2, 2014)
 2013: San Jose, California (February 27-March 3, 2013)
 2012: Dallas, Texas (February 15-19, 2012)
 Annual Meeting Materials
 Convention Manual
 Business meeting minutes
 Session Videos and Handouts
-Session Videos
-(2015 - present)
-Topical pages
-containing slides, handouts, and video from past meetings (through 2017)
-Please consider submitting your conference slides and handouts to
-Knowledge Commons
-!
+Session Videos (2015 - present)
+Topical pages containing slides, handouts, and video from past meetings (through 2017)
+Please consider submitting your conference slides and handouts to Knowledge Commons!
 Grants, Financial Support, and Networking Opportunities
 Travel grant for new attendees
 Conference Mentoring Program
 Best of Chapters competition
-Visit the
-Guide for Attendees
-on the conference website to learn about other networking opportunities
-Cover a specific MLA member's conference registration
-. Please contact the MLA Office to do this!
+Visit the Guide for Attendees on the conference website to learn about other networking opportunities
+Cover a specific MLA member's conference registration. Please contact the MLA Office to do this!
 Annual Meeting Surveys
-2025: Online:
-Summary (pdf)
-|
-Detailed Responses (xlsx)
-2024: Cincinnati:
-Summary (pdf)
-|
-Detailed Responses (xlsx)
-2023: St. Louis:
-Summary (pdf)
-|
-Detailed Responses (xlsx)
-2022: Online:
-Summary (pdf)
-|
-Detailed Responses (xlsx)
-2021:
-Online
-2020: Norfolk:
-Summary (pdf)
-|
-Detailed Responses (xlsx)
-2019: St. Louis:
-Summary (pdf)
-|
-Detailed Responses (xlsx)
-2018:
-Portland
-2017:
-Orlando
-2016:
-Cincinnati
-2015:
-Denver
-2014:
-Atlanta
-2013:
-San Jose
-2012:
-Dallas
-2010:
-San Diego
+2025: Online: Summary (pdf) | Detailed Responses (xlsx)
+2024: Cincinnati: Summary (pdf) | Detailed Responses (xlsx)
+2023: St. Louis: Summary (pdf) | Detailed Responses (xlsx)
+2022: Online: Summary (pdf) | Detailed Responses (xlsx)
+2021: Online
+2020: Norfolk: Summary (pdf) | Detailed Responses (xlsx)
+2019: St. Louis: Summary (pdf) | Detailed Responses (xlsx)
+2018: Portland
+2017: Orlando
+2016: Cincinnati
+2015: Denver
+2014: Atlanta
+2013: San Jose
+2012: Dallas
+2010: San Diego
 Close
 Sign In
 Forgot your password?
@@ -142,8 +87,7 @@ Texas
 About MLA
 The Music Library Association is the professional association for music libraries and librarianship in the United States. Founded in 1931, it has an international membership of librarians, musicians, scholars, educators, and members of the book and
 music trades. Complementing the Association’s national and international activities are ten regional chapters that carry out its programs on the local level.
-Association Management Software ::
-Legal
+Association Management Software :: Legal
 LINK: Annual Meetings -> https://www.musiclibraryassoc.org/?page=Meetings
 LINK: Business Meetings -> https://www.musiclibraryassoc.org/?page=BusinessMeetings
 LINK: Information for Contributors -> https://www.musiclibraryassoc.org/?page=Notescontributors
@@ -181,11 +125,7 @@ LINK: San Diego -> http://www.musiclibraryassoc.org/resource/collection/7963D47E
 
 === PAGE: https://www.musiclibraryassoc.org/page/OAGuidelines ===
 OA Proposal Guidelines - Music Library Association
-Donate
-|
-Sign In
-|
-Join
+Donate | Sign In | Join
 music library association
 U.S. Branch of the International Association of Music Libraries, Archives, and Documentation Centres
 Our Profession
@@ -197,10 +137,8 @@ Support MLA
 Contact
 OA Proposal Guidelines
 Publications
-»
-Open Access Initiatives
-»
-Proposal Guidelines for Authors and Reviewers
+» Open Access Initiatives
+» Proposal Guidelines for Authors and Reviewers
 Proposal Guidelines for Authors and Reviewers for MLA Open Access Publications
 The Open Access Editor invites all interested authors to request a preliminary consultation about their project before submitting a full proposal. If you have questions about the process or if you would like to discuss your project before submission,
 please ask the editor for a consultation.
@@ -253,8 +191,7 @@ Texas
 About MLA
 The Music Library Association is the professional association for music libraries and librarianship in the United States. Founded in 1931, it has an international membership of librarians, musicians, scholars, educators, and members of the book and
 music trades. Complementing the Association’s national and international activities are ten regional chapters that carry out its programs on the local level.
-Association Management Software ::
-Legal
+Association Management Software :: Legal
 LINK: Annual Meetings -> https://www.musiclibraryassoc.org/?page=Meetings
 LINK: Business Meetings -> https://www.musiclibraryassoc.org/?page=BusinessMeetings
 LINK: Information for Contributors -> https://www.musiclibraryassoc.org/?page=Notescontributors
@@ -262,11 +199,7 @@ LINK: Proposal Guidelines for Authors and Reviewers -> https://www.musiclibrarya
 
 === PAGE: https://www.musiclibraryassoc.org/page/BusinessMeetings ===
 Business Meetings - Music Library Association
-Donate
-|
-Sign In
-|
-Join
+Donate | Sign In | Join
 music library association
 U.S. Branch of the International Association of Music Libraries, Archives, and Documentation Centres
 Our Profession
@@ -277,14 +210,9 @@ Publications
 Support MLA
 Contact
 Business Meetings
-Business meetings take place at each
-Annual Meeting
-of the Association. Minutes of business meetings since 1986 are archived here.
+Business meetings take place at each Annual Meeting of the Association. Minutes of business meetings since 1986 are archived here.
 Business Meeting Minutes
-[
-More Info
-Hide Info
-]
+[ More InfoHide Info ]
 A collection of minutes of Business Meetings held at Annual Meetings since 1986.
 Item Name
 Posted By
@@ -431,8 +359,7 @@ Administration
 7/31/2013
 Page 1 of 2
 1
-|
-2
+| 2
 Close
 Sign In
 Forgot your password?
@@ -457,8 +384,7 @@ Texas
 About MLA
 The Music Library Association is the professional association for music libraries and librarianship in the United States. Founded in 1931, it has an international membership of librarians, musicians, scholars, educators, and members of the book and
 music trades. Complementing the Association’s national and international activities are ten regional chapters that carry out its programs on the local level.
-Association Management Software ::
-Legal
+Association Management Software :: Legal
 LINK: Annual Meetings -> https://www.musiclibraryassoc.org/?page=Meetings
 LINK: Business Meetings -> https://www.musiclibraryassoc.org/?page=BusinessMeetings
 LINK: Information for Contributors -> https://www.musiclibraryassoc.org/?page=Notescontributors
@@ -472,15 +398,11 @@ MLA Conferences
 The 96th Annual Meeting of the Music Library Association is scheduled to be held at the Westin Book Cadillac Hotel in Detroit, Michigan, March 3 – 6, 2027. This will be a fully in-person experience, and we will not be offering a virtual-streaming option for program sessions.
 More information about the meeting location, format, program and registration is forthcoming.
 Community Choice Call for Proposals and Second Call for Poster Proposals
-The Program Committee invites proposals for the Community Choice session, as well as additional poster proposals, by
-11:59pm PDT on Saturday, November 7, 2026.
+The Program Committee invites proposals for the Community Choice session, as well as additional poster proposals, by 11:59pm PDT on Saturday, November 7, 2026.
 View the Call for Proposals
 Please note: if your poster proposal has already been accepted, you do not need to resubmit.
 Registration
-Registration for the 96th annual meeting of the Music Library Association will open in fall 2026.
-Members save on Annual Meeting registration—
-renew or join today
-!
+Registration for the 96th annual meeting of the Music Library Association will open in fall 2026. Members save on Annual Meeting registration—renew or join today!
 At its spring meeting, the Board approved the following registration fees for the 2027 conference:
 Individual Registrations
 Price
@@ -515,13 +437,9 @@ We are very pleased to release the 2027 Annual Meeting Prospectus, which present
 View/Download the Prospectus (PDF)
 Recorded presentations from the 2025 and 2026 meetings
 2025 Meeting
-Recordings of sessions from the 2025 meeting are publicly available on Vimeo. See the
-2025 Meeting page
-for more details.
+Recordings of sessions from the 2025 meeting are publicly available on Vimeo. See the 2025 Meeting page for more details.
 2026 Meeting
-Recordings of sessions from the 2026 meeting are publicly available on Vimeo. See the
-2026 Meeting page
-page for more details.
+Recordings of sessions from the 2026 meeting are publicly available on Vimeo. See the 2026 Meeting page page for more details.
 LINK: Conference Homepage -> https://conferences.wp.musiclibraryassoc.org/
 LINK: Community Choice Call for Proposals -> https://conferences.wp.musiclibraryassoc.org/community-choice-call/
 LINK: Policies and Guidelines -> https://conferences.wp.musiclibraryassoc.org/policies-and-guidelines/
@@ -546,13 +464,9 @@ LINK: 2026 Meeting page -> https://conferences.wp.musiclibraryassoc.org/2026conf
 The 95th Annual Meeting of the Music Library Association was held at the Hilton Salt Lake City Center in Salt Lake City, UT, from February 25-28, 2026, as a hybrid in-person and virtual meeting.
 Committee, subcommittee, interest group, chapter, task force, and user group meetings took place online after the conference, in the week of March 9–13, 2026.
 Session Videos
-Session recordings can be viewed by the public on
-Vimeo
-.
+Session recordings can be viewed by the public on Vimeo.
 Committee, subcommittee, interest group, chapter, task force, and user group meetings are recorded at the chair or coordinator’s discretion, and are available only to registered attendees on the Cvent Attendee Website.
-The New Business Town Hall is available to registered attendees on the Cvent Attendee Website and by request from the
-Convention Managers
-.
+The New Business Town Hall is available to registered attendees on the Cvent Attendee Website and by request from the Convention Managers.
 Program
 View the MLA 2026 Program
 LINK: Conference Homepage -> https://conferences.wp.musiclibraryassoc.org/

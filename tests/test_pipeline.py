@@ -23,6 +23,7 @@ class FakeExtractor:
     """Reads the dates out of the fixture with regexes, the way Gemini would."""
     calls = 0
     model = "fake-model"
+    last_model = "fake-model"
 
     def __init__(self, *a, **k):
         pass

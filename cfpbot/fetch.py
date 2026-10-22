@@ -219,6 +219,12 @@ def same_site(a: str, b: str) -> bool:
     return base(a) == base(b) != ""
 
 
+BLOCK_TAGS = ["p", "div", "li", "ul", "ol", "dl", "dt", "dd", "h1", "h2", "h3", "h4", "h5", "h6",
+              "table", "tr", "td", "th", "thead", "tbody", "section", "article", "header", "main",
+              "aside", "blockquote", "pre", "figure", "figcaption", "address", "hr", "body",
+              "button", "option", "label", "details", "summary"]
+
+
 def html_to_page(url: str, html: str, via: str = "plain") -> Page:
     soup = BeautifulSoup(html, "html.parser")
     # Links come from the whole page (menus included), so menu items like "Symposium" are found.
@@ -242,8 +248,15 @@ def html_to_page(url: str, html: str, via: str = "plain") -> Page:
         tag.decompose()
     for tag in soup.select('[role="navigation"], [aria-hidden="true"]'):
         tag.decompose()
+    # Line breaks only at block elements, so "June 2<sup>nd</sup> – June 6<sup>th</sup>"
+    # stays on one line instead of being split at every inline tag.
+    for br in soup.find_all("br"):
+        br.replace_with("\n")
+    for tag in soup.find_all(BLOCK_TAGS):
+        tag.insert_before("\n")
+        tag.insert_after("\n")
     lines = []
-    for line in soup.get_text("\n").splitlines():
+    for line in soup.get_text().splitlines():
         line = " ".join(line.split())
         if line and (not lines or lines[-1] != line):
             lines.append(line)

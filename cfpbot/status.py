@@ -81,7 +81,7 @@ def build_status_page(state: dict, sources: list[Source], settings: dict, today:
 {''.join(f'<a class="small" href="{escape(u)}">{escape(u)}</a><br>' for u in s.urls)}</td>
 <td><span class="{cls}">{label}</span><br><span class="small">{'<br>'.join(detail)}</span></td>
 <td>{escape(fmt_date(st.get('last_success')) if st.get('last_success') else 'never')}
-<br><span class="small">{len(pages)} page(s){' via browser' if st.get('used_browser') else ''}</span></td>
+<br><span class="small">{len(pages)} page(s){' via browser' if st.get('used_browser') else ''}{'<br>read by ' + escape(st['model']) if st.get('model') else ''}</span></td>
 <td>{'<ul class="eds">' + ''.join(eds) + '</ul>' if eds else '<span class="small">No upcoming dates found</span>'}</td>
 </tr>""")
     last_run = fmt_date(state.get("last_run")) if state.get("last_run") else "never"

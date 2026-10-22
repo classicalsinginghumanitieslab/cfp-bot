@@ -17,6 +17,8 @@ def normalize(text: str) -> str:
     """Lower-case, unify quotes/dashes, collapse whitespace (incl. around dashes)."""
     text = unicodedata.normalize("NFKC", text).translate(_PUNCT).lower()
     text = re.sub(r"\s*-\s*", "-", text)
+    text = re.sub(r"\s+([,.;:!?)\]])", r"\1", text)  # "Voice , to" -> "Voice, to"
+    text = re.sub(r"([(\[])\s+", r"\1", text)
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 
@@ -50,4 +52,6 @@ _NOISE_LINE = re.compile(r"(©|copyright\s|all rights reserved)", re.I)
 def change_fingerprint_text(text: str) -> str:
     """The text used to decide whether a page changed: drops copyright/footer noise."""
     lines = [ln for ln in text.splitlines() if not _NOISE_LINE.search(ln)]
-    return normalize("\n".join(lines))
+    # Deliberately simple (not normalize()), so tweaks to quote matching don't make every
+    # page look changed.
+    return " ".join(" ".join(lines).split())

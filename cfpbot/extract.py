@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import re
 import time
 from datetime import date
 
@@ -68,10 +69,25 @@ def build_prompt(source: Source, today: date) -> str:
                            hints=source.hints or "none")
 
 
+def retry_delay_seconds(message: str) -> float | None:
+    """Parse Gemini's 'Please retry in 3h57m48.07s' / 'retry in 36.5s' hint."""
+    m = re.search(r"retry in ((?:\d+h)?(?:\d+m)?(?:[\d.]+s)?)", message or "")
+    if not m or not m.group(1):
+        return None
+    parts = re.findall(r"([\d.]+)([hms])", m.group(1))
+    return sum(float(v) * {"h": 3600, "m": 60, "s": 1}[u] for v, u in parts)
+
+
 class Extractor:
+    """Calls Gemini. GEMINI_MODEL may list several models, comma-separated; when one is
+    overloaded or out of free daily quota, the next one is tried (each has its own quota)."""
+
     def __init__(self, api_key: str | None = None, model: str | None = None):
         self.api_key = api_key or os.environ.get("GEMINI_API_KEY")
-        self.model = model or os.environ.get("GEMINI_MODEL")
+        self.model = model or os.environ.get("GEMINI_MODEL") or ""
+        self.models = [m.strip() for m in self.model.split(",") if m.strip()]
+        self.exhausted: set[str] = set()  # out of daily quota (or unknown) for the rest of the run
+        self.last_model: str | None = None
         self._client = None
         self._last_call = 0.0
         self.calls = 0
@@ -80,7 +96,7 @@ class Extractor:
         """None if ready, otherwise the reason it isn't."""
         if not self.api_key:
             return "GEMINI_API_KEY is not set"
-        if not self.model:
+        if not self.models:
             return "GEMINI_MODEL is not set"
         return None
 
@@ -104,37 +120,60 @@ class Extractor:
             temperature=0,
         )
         contents = [prompt, page_text[:MAX_INPUT_CHARS]]
-        last_error = None
-        for attempt in range(MAX_TRIES):
-            wait = PAUSE_BETWEEN_CALLS - (time.monotonic() - self._last_call)
-            if wait > 0:
-                time.sleep(wait)
-            self._last_call = time.monotonic()
-            self.calls += 1
-            try:
-                resp = client.models.generate_content(model=self.model, contents=contents,
-                                                      config=config)
-            except errors.APIError as e:
-                last_error = f"Gemini HTTP {e.code}: {e.message}"
-                if e.code in (429, 500, 502, 503, 504) and attempt < MAX_TRIES - 1:
-                    backoff = 15 * (2 ** attempt)
-                    log.warning("%s; retrying in %ss", last_error, backoff)
-                    time.sleep(backoff)
-                    continue
-                raise ExtractError(last_error) from e
-            except Exception as e:  # network errors etc.
-                last_error = f"Gemini call failed: {type(e).__name__}: {e}"
-                if attempt < MAX_TRIES - 1:
-                    time.sleep(15 * (2 ** attempt))
-                    continue
-                raise ExtractError(last_error) from e
-            try:
-                data = json.loads(resp.text or "")
-                editions = data["editions"]
-                if not isinstance(editions, list):
-                    raise TypeError("editions is not a list")
-                return editions
-            except (ValueError, KeyError, TypeError) as e:
-                last_error = f"Gemini returned unusable JSON: {e}"
-                log.warning(last_error)
-        raise ExtractError(last_error or "Gemini failed")
+        errors_seen: list[str] = []
+        for model in self.models:
+            if model in self.exhausted:
+                continue
+            for attempt in range(MAX_TRIES):
+                wait = PAUSE_BETWEEN_CALLS - (time.monotonic() - self._last_call)
+                if wait > 0:
+                    time.sleep(wait)
+                self._last_call = time.monotonic()
+                self.calls += 1
+                try:
+                    resp = client.models.generate_content(model=model, contents=contents,
+                                                          config=config)
+                except errors.APIError as e:
+                    msg = f"{model}: HTTP {e.code}: {(e.message or '').splitlines()[0][:160]}"
+                    if e.code == 429:
+                        delay = retry_delay_seconds(str(e))
+                        if delay is not None and delay <= 60 and attempt < MAX_TRIES - 1:
+                            log.warning("%s; waiting %.0fs", msg, delay + 1)
+                            time.sleep(delay + 1)  # per-minute limit: wait it out
+                            continue
+                        self.exhausted.add(model)  # daily quota gone: stop using it this run
+                        log.warning("%s; switching model for the rest of this run", msg)
+                    elif e.code in (500, 502, 503, 504) and attempt == 0:
+                        log.warning("%s; retrying once in 20s", msg)
+                        time.sleep(20)
+                        continue
+                    elif e.code in (400, 403, 404):
+                        self.exhausted.add(model)  # bad/retired model name or no access
+                        log.warning("%s; not using this model again this run", msg)
+                    else:  # still overloaded after a retry: skip it for the rest of this run
+                        self.exhausted.add(model)
+                        log.warning("%s; trying the next model", msg)
+                    errors_seen.append(msg)
+                    break
+                except Exception as e:  # network errors etc.
+                    msg = f"{model}: {type(e).__name__}: {e}"
+                    if attempt == 0:
+                        time.sleep(20)
+                        continue
+                    errors_seen.append(msg)
+                    break
+                try:
+                    data = json.loads(resp.text or "")
+                    editions = data["editions"]
+                    if not isinstance(editions, list):
+                        raise TypeError("editions is not a list")
+                    self.last_model = model
+                    return editions
+                except (ValueError, KeyError, TypeError) as e:
+                    msg = f"{model}: unusable JSON: {e}"
+                    log.warning(msg)
+                    if attempt == MAX_TRIES - 1:
+                        errors_seen.append(msg)
+        if not errors_seen:
+            errors_seen.append("every model is out of free quota for today")
+        raise ExtractError("Gemini failed — " + "; ".join(errors_seen))
