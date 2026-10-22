@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-21",
+  "last_run": "2026-10-22",
   "records": {
     "cms-international|2027": {
       "cfp_deadline": "2026-05-13",
@@ -24,7 +24,7 @@
         "location not found this week; showing last known value"
       ],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-10-22",
       "location": "Reykjavík, Iceland",
       "missing_since": null,
       "name": "2027 CMS International Conference",
@@ -53,7 +53,7 @@
       "info_url": "https://www.music.org/2026-natl-overview.html",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-10-22",
       "location": "Grand Rapids Amway Grand Plaza",
       "missing_since": null,
       "name": "Sixty-Ninth National Conference (2026)",
@@ -81,7 +81,7 @@
       "info_url": "https://www.music.org/2027-natl-overview.html",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-10-22",
       "location": "Hilton Denver City Center",
       "missing_since": null,
       "name": "Seventieth National Conference (2027)",
@@ -109,7 +109,7 @@
       "info_url": "https://www.music.org/events/national-conferences/seventy-first-national-conference-2028.html",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-10-22",
       "location": "Manchester Grand Hyatt San Diego",
       "missing_since": null,
       "name": "Seventy-First National Conference (2028)",
@@ -138,7 +138,7 @@
       "info_url": "https://www.music.org/regional-conference-nw.html",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-10-22",
       "location": "Pacific Lutheran University",
       "missing_since": null,
       "name": "2027 Northwest Chapter Conference",
@@ -167,7 +167,7 @@
       "info_url": "https://www.music.org/regional-conference-sw.html",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-10-22",
       "location": "Southern Utah University",
       "missing_since": null,
       "name": "2027 Southwest Chapter Conference",
@@ -195,7 +195,7 @@
       "info_url": "https://www.fallvoice.org/",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-10-22",
       "location": "Minneapolis, MN",
       "missing_since": null,
       "name": "Fall Voice Conference 2027",
@@ -252,7 +252,7 @@
       "info_url": "https://www.calwestnats.org/reg-conference",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-10-22",
       "location": "UNLV (University of Nevada, Las Vegas), Las Vegas, Nevada",
       "missing_since": null,
       "name": "2027 NATS Cal-Western Region Conference",
@@ -280,7 +280,7 @@
       "info_url": "https://www.nats.org/national_conference.html",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-10-22",
       "location": "Baltimore, Maryland",
       "missing_since": null,
       "name": "NATS National Conference",
@@ -309,7 +309,7 @@
       "info_url": "https://www.northwestvoice.org/",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-10-22",
       "location": "Seattle, Washington",
       "missing_since": null,
       "name": "Northwest Voice: The Art and Science of the Performing Voice Conference",
@@ -337,7 +337,7 @@
       "info_url": "https://sincitylaryngology.com/",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-10-22",
       "location": "Las Vegas",
       "missing_since": null,
       "name": "Advanced Practices in Voice & Dysphagia",
@@ -366,7 +366,7 @@
       "info_url": "https://voicefoundation.org/call-for-papers/",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-21",
+      "last_checked": "2026-10-22",
       "location": "Philadelphia, Pennsylvania",
       "missing_since": null,
       "name": "56th Annual Symposium: Care of the Professional Voice",
@@ -380,10 +380,10 @@
     "cms-international": {
       "consecutive_failures": 0,
       "fingerprint": "522f3e09cd491f87dfc73eb37440492c5b623b0656e123750cce018c1b6ea41a",
-      "last_attempt": "2026-10-21",
+      "last_attempt": "2026-10-22",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-21",
+      "last_success": "2026-10-22",
       "model": "gemini-3.5-flash-lite",
       "notes": [],
       "pages": [
@@ -416,15 +416,15 @@
           "year": "2027"
         }
       ],
-      "used_browser": false
+      "used_browser": true
     },
     "cms-national": {
       "consecutive_failures": 0,
       "fingerprint": "ffeae854219ca4aad03aec3e0b936cabdbf6700f55667580eb08ff49d88419cd",
-      "last_attempt": "2026-10-21",
+      "last_attempt": "2026-10-22",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-21",
+      "last_success": "2026-10-22",
       "model": "gemini-3.5-flash-lite",
       "notes": [],
       "pages": [
@@ -500,15 +500,15 @@
           "year": "2028"
         }
       ],
-      "used_browser": false
+      "used_browser": true
     },
     "cms-regional": {
       "consecutive_failures": 0,
       "fingerprint": "3b014e8daa76f1492f82cd546ca8b4f9a662d986db2842799ce05e4f33c334a4",
-      "last_attempt": "2026-10-21",
+      "last_attempt": "2026-10-22",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-21",
+      "last_success": "2026-10-22",
       "model": "gemini-3.5-flash-lite",
       "notes": [],
       "pages": [
@@ -693,10 +693,10 @@
     "fall-voice": {
       "consecutive_failures": 0,
       "fingerprint": "b2ff17913e58e5d1af26675855c905556f69646ae2e6cc770f9a51848b41d4a0",
-      "last_attempt": "2026-10-21",
+      "last_attempt": "2026-10-22",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-21",
+      "last_success": "2026-10-22",
       "model": "gemini-3.5-flash-lite",
       "notes": [],
       "pages": [
@@ -708,10 +708,10 @@
     "icvt": {
       "consecutive_failures": 0,
       "fingerprint": "c4df29416ca2fe36b27ffe0077acc74be30bb9bbbbdd03e87610e5d8f9934165",
-      "last_attempt": "2026-10-21",
+      "last_attempt": "2026-10-22",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-21",
+      "last_success": "2026-10-22",
       "model": "gemini-3.5-flash-lite",
       "notes": [],
       "pages": [
@@ -721,11 +721,11 @@
       "used_browser": false
     },
     "mla": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "fingerprint": "43d45da47d3771377e78e52236f10b05fb9041c9910ce8901df07211bc48c273",
-      "last_attempt": "2026-10-21",
-      "last_error": null,
-      "last_result": "unchanged",
+      "last_attempt": "2026-10-22",
+      "last_error": "https://www.musiclibraryassoc.org/page/Meetings: HTTP 403 (browser)",
+      "last_result": "failed",
       "last_success": "2026-10-21",
       "model": "gemini-3.5-flash-lite",
       "notes": [],
@@ -764,10 +764,10 @@
     "nats-calwest": {
       "consecutive_failures": 0,
       "fingerprint": "e438643de08f715276387cd243896f0adc503e2384cd7594fa9fd8639cf6c720",
-      "last_attempt": "2026-10-21",
+      "last_attempt": "2026-10-22",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-21",
+      "last_success": "2026-10-22",
       "model": "gemini-3.6-flash",
       "notes": [],
       "pages": [
@@ -779,10 +779,10 @@
     "nats-national": {
       "consecutive_failures": 0,
       "fingerprint": "35a8989b97b69f376d9e7544afccec763b63d5a38333c389de105036f0cbcd98",
-      "last_attempt": "2026-10-21",
+      "last_attempt": "2026-10-22",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-21",
+      "last_success": "2026-10-22",
       "model": "gemini-3.6-flash",
       "notes": [],
       "pages": [
@@ -793,10 +793,10 @@
     "nw-voice": {
       "consecutive_failures": 0,
       "fingerprint": "92e574cec7e707d6c2280ae32367d8c04ce0009a9892ad866edd7edd550c29ed",
-      "last_attempt": "2026-10-21",
+      "last_attempt": "2026-10-22",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-21",
+      "last_success": "2026-10-22",
       "model": "gemini-3.5-flash-lite",
       "notes": [],
       "pages": [
@@ -831,10 +831,10 @@
     "pava": {
       "consecutive_failures": 0,
       "fingerprint": "a5a9579ebaa2e9af1a79152c5f6fb71fd16a5edb9a31b2e5aaaf5c9396d01240",
-      "last_attempt": "2026-10-21",
+      "last_attempt": "2026-10-22",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-21",
+      "last_success": "2026-10-22",
       "model": "gemini-3.5-flash-lite",
       "notes": [
         "edition 2026 ignored: already over (2026-10-11)"
@@ -866,15 +866,15 @@
           "year": "2026"
         }
       ],
-      "used_browser": false
+      "used_browser": true
     },
     "sin-city": {
       "consecutive_failures": 0,
       "fingerprint": "1cc8447752c3199828b4ce75af0302387940a2245632d5d73a2a2fd562b3bb67",
-      "last_attempt": "2026-10-21",
+      "last_attempt": "2026-10-22",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-21",
+      "last_success": "2026-10-22",
       "model": "gemini-3.5-flash-lite",
       "notes": [],
       "pages": [
@@ -909,10 +909,10 @@
     "tvf": {
       "consecutive_failures": 0,
       "fingerprint": "a1714453fc1d49c445761f60f1ce12c15247938d29635cb0b41fbf8d784d0526",
-      "last_attempt": "2026-10-21",
+      "last_attempt": "2026-10-22",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-21",
+      "last_success": "2026-10-22",
       "model": "gemini-3.5-flash-lite",
       "notes": [],
       "pages": [

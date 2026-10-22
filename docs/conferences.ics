@@ -12,7 +12,7 @@ BEGIN:VEVENT
 SUMMARY:CMS International Conference — Reykjavík\, Iceland
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270613
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:cms-international-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -24,7 +24,7 @@ DESCRIPTION:2027 CMS International Conference\nConference: Jun 6\, 2027
  027-intl-overview.html\nEvidence: “06-06-2027”\nEvidence: “06-12-202
  7”\nEvidence: “All proposals are due no later than 11:59pm Mountain Ti
  me on Wednesday\, May 13\, 2026.”\nConfidence: high\nLast checked: Oct 2
- 1\, 2026\nCheck: location 'Reykjavck\, Iceland' dropped: 'Reykjavck' not o
+ 2\, 2026\nCheck: location 'Reykjavck\, Iceland' dropped: 'Reykjavck' not o
  n the page\nCheck: location not found this week\; showing last known value
  \nSource: https://www.music.org/events/international-conferences.html
 LAST-MODIFIED:20261021T000000Z
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: CMS International Conference
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:cms-international-2027-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -48,7 +48,7 @@ DESCRIPTION:2027 CMS International Conference\nConference: Jun 6\, 2027
  027-intl-overview.html\nEvidence: “All proposals are due no later than 1
  1:59pm Mountain Time on Wednesday\, May 13\, 2026.”\nEvidence: “06-06-
  2027”\nEvidence: “06-12-2027”\nConfidence: high\nLast checked: Oct 2
- 1\, 2026\nCheck: location 'Reykjavck\, Iceland' dropped: 'Reykjavck' not o
+ 2\, 2026\nCheck: location 'Reykjavck\, Iceland' dropped: 'Reykjavck' not o
  n the page\nCheck: location not found this week\; showing last known value
  \nSource: https://www.music.org/events/international-conferences.html
 LAST-MODIFIED:20261021T000000Z
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:CMS National Conference — Grand Rapids Amway Grand Plaza
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:cms-national-2026-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -81,7 +81,7 @@ DESCRIPTION:Sixty-Ninth National Conference (2026)\nConference: Nov 12\, 2
  ic.org/2026-natl-overview.html\nConference info: https://www.music.org/202
  6-natl-overview.html\nEvidence: “November 12 - November 14\, 2026”\nEv
  idence: “All proposals are due no later than 11:59pm Mountain Time on Mo
- nday\, January 5\, 2026.”\nConfidence: high\nLast checked: Oct 21\, 2026
+ nday\, January 5\, 2026.”\nConfidence: high\nLast checked: Oct 22\, 2026
  \nSource: https://www.music.org/events/national-conferences.html
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Grand Rapids Amway Grand Plaza
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: CMS National Conference
 DTSTART;VALUE=DATE:20260105
 DTEND;VALUE=DATE:20260106
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:cms-national-2026-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -104,7 +104,7 @@ DESCRIPTION:Sixty-Ninth National Conference (2026)\nConference: Nov 12\, 2
  ic.org/2026-natl-overview.html\nConference info: https://www.music.org/202
  6-natl-overview.html\nEvidence: “All proposals are due no later than 11:
  59pm Mountain Time on Monday\, January 5\, 2026.”\nEvidence: “November
-  12 - November 14\, 2026”\nConfidence: high\nLast checked: Oct 21\, 2026
+  12 - November 14\, 2026”\nConfidence: high\nLast checked: Oct 22\, 2026
  \nSource: https://www.music.org/events/national-conferences.html
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:CMS National Conference — Hilton Denver City Center
 DTSTART;VALUE=DATE:20271104
 DTEND;VALUE=DATE:20271107
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:cms-national-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -132,7 +132,7 @@ DESCRIPTION:Seventieth National Conference (2027)\nConference: Nov 4\, 202
  7 – Nov 6\, 2027\nLocation: Hilton Denver City Center (in-person)\nCFP d
  eadline: not posted yet\nCFP link: none found\nConference info: https://ww
  w.music.org/2027-natl-overview.html\nEvidence: “November 4 - November 6
- \, 2027”\nConfidence: high\nLast checked: Oct 21\, 2026\nSource: https:/
+ \, 2027”\nConfidence: high\nLast checked: Oct 22\, 2026\nSource: https:/
  /www.music.org/events/national-conferences.html
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Hilton Denver City Center
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:CMS National Conference — Manchester Grand Hyatt San Diego
 DTSTART;VALUE=DATE:20281116
 DTEND;VALUE=DATE:20281120
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:cms-national-2028-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -152,7 +152,7 @@ DESCRIPTION:Seventy-First National Conference (2028)\nConference: Nov 16\,
  rson)\nCFP deadline: not posted yet\nCFP link: none found\nConference info
  : https://www.music.org/events/national-conferences/seventy-first-national
  -conference-2028.html\nEvidence: “11-16-2028”\nEvidence: “11-19-2028
- ”\nConfidence: high\nLast checked: Oct 21\, 2026\nSource: https://www.mu
+ ”\nConfidence: high\nLast checked: Oct 22\, 2026\nSource: https://www.mu
  sic.org/events/national-conferences.html
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Manchester Grand Hyatt San Diego
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:CMS Chapter Conference (Northwest) — Pacific Lutheran University
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:cms-regional-2027-northwest-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -175,7 +175,7 @@ DESCRIPTION:2027 Northwest Chapter Conference\nConference: Apr 2\, 2027
  r Presentations.\nCFP link: none found\nConference info: https://www.music
  .org/regional-conference-nw.html\nEvidence: “04-02-2027”\nEvidence: 
  “04-03-2027”\nEvidence: “Submission Deadline: 11:59pm Pacific Time o
- n Tuesday\, October 6\, 2026”\nConfidence: high\nLast checked: Oct 21\, 
+ n Tuesday\, October 6\, 2026”\nConfidence: high\nLast checked: Oct 22\, 
  2026\nSource: https://www.music.org/events/chapter-conferences.html
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Pacific Lutheran University
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: CMS Chapter Conference (Northwest)
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:cms-regional-2027-northwest-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -197,7 +197,7 @@ DESCRIPTION:2027 Northwest Chapter Conference\nConference: Apr 2\, 2027
  r Presentations.\nCFP link: none found\nConference info: https://www.music
  .org/regional-conference-nw.html\nEvidence: “Submission Deadline: 11:59p
  m Pacific Time on Tuesday\, October 6\, 2026”\nEvidence: “04-02-2027
- ”\nEvidence: “04-03-2027”\nConfidence: high\nLast checked: Oct 21\, 
+ ”\nEvidence: “04-03-2027”\nConfidence: high\nLast checked: Oct 22\, 
  2026\nSource: https://www.music.org/events/chapter-conferences.html
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:CMS Chapter Conference (Southwest) — Southern Utah University
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:cms-regional-2027-southwest-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -228,7 +228,7 @@ DESCRIPTION:2027 Southwest Chapter Conference\nConference: Mar 5\, 2027
  .\nCFP link: none found\nConference info: https://www.music.org/regional-c
  onference-sw.html\nEvidence: “03-05-2027”\nEvidence: “03-06-2027”
  \nEvidence: “Submission Deadline: 11:59 PM PST October 8\, 2026”\nConf
- idence: high\nLast checked: Oct 21\, 2026\nSource: https://www.music.org/e
+ idence: high\nLast checked: Oct 22\, 2026\nSource: https://www.music.org/e
  vents/chapter-conferences.html
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Southern Utah University
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: CMS Chapter Conference (Southwest)
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:cms-regional-2027-southwest-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -250,7 +250,7 @@ DESCRIPTION:2027 Southwest Chapter Conference\nConference: Mar 5\, 2027
  .\nCFP link: none found\nConference info: https://www.music.org/regional-c
  onference-sw.html\nEvidence: “Submission Deadline: 11:59 PM PST October 
  8\, 2026”\nEvidence: “03-05-2027”\nEvidence: “03-06-2027”\nConfi
- dence: high\nLast checked: Oct 21\, 2026\nSource: https://www.music.org/ev
+ dence: high\nLast checked: Oct 22\, 2026\nSource: https://www.music.org/ev
  ents/chapter-conferences.html
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
@@ -270,14 +270,14 @@ BEGIN:VEVENT
 SUMMARY:Fall Voice Conference — Minneapolis\, MN
 DTSTART;VALUE=DATE:20271021
 DTEND;VALUE=DATE:20271024
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:fall-voice-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
 DESCRIPTION:Fall Voice Conference 2027\nConference: Oct 21\, 2027 – Oct 
  23\, 2027\nLocation: Minneapolis\, MN\nCFP deadline: not posted yet\nCFP l
  ink: none found\nConference info: https://www.fallvoice.org/\nEvidence: 
- “October 21-23\, 2027”\nConfidence: high\nLast checked: Oct 21\, 2026
+ “October 21-23\, 2027”\nConfidence: high\nLast checked: Oct 22\, 2026
  \nSource: https://www.fallvoice.org/
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Minneapolis\, MN
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:Music Library Association Annual Meeting — Detroit\, Michigan
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:mla-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -301,7 +301,9 @@ DESCRIPTION:96th Annual Meeting\nConference: Mar 3\, 2027 – Mar 6\, 2027
  igan”\nEvidence: “The Program Committee invites proposals for the Comm
  unity Choice session\, as well as additional poster proposals\, by 11:59pm
   PDT on Saturday\, November 7\, 2026.”\nConfidence: high\nLast checked: 
- Oct 21\, 2026\nSource: https://www.musiclibraryassoc.org/page/Meetings
+ Oct 21\, 2026 — not re-checked this week (https://www.musiclibraryassoc.
+ org/page/Meetings: HTTP 403 (browser))\nSource: https://www.musiclibraryas
+ soc.org/page/Meetings
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Detroit\, Michigan
 TRANSP:TRANSPARENT
@@ -311,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: Music Library Association Annual Meeting
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:mla-2027-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -324,7 +326,9 @@ DESCRIPTION:96th Annual Meeting\nConference: Mar 3\, 2027 – Mar 6\, 2027
  posals for the Community Choice session\, as well as additional poster pro
  posals\, by 11:59pm PDT on Saturday\, November 7\, 2026.”\nEvidence: “
  March 3-6\, 2027\, Detroit\, Michigan”\nConfidence: high\nLast checked: 
- Oct 21\, 2026\nSource: https://www.musiclibraryassoc.org/page/Meetings
+ Oct 21\, 2026 — not re-checked this week (https://www.musiclibraryassoc.
+ org/page/Meetings: HTTP 403 (browser))\nSource: https://www.musiclibraryas
+ soc.org/page/Meetings
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
 URL:https://conferences.wp.musiclibraryassoc.org/community-choice-call/
@@ -343,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:CFP in 7 days: MLA
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:mla-2027-cfp-7d@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -356,7 +360,9 @@ DESCRIPTION:96th Annual Meeting\nConference: Mar 3\, 2027 – Mar 6\, 2027
  posals for the Community Choice session\, as well as additional poster pro
  posals\, by 11:59pm PDT on Saturday\, November 7\, 2026.”\nEvidence: “
  March 3-6\, 2027\, Detroit\, Michigan”\nConfidence: high\nLast checked: 
- Oct 21\, 2026\nSource: https://www.musiclibraryassoc.org/page/Meetings
+ Oct 21\, 2026 — not re-checked this week (https://www.musiclibraryassoc.
+ org/page/Meetings: HTTP 403 (browser))\nSource: https://www.musiclibraryas
+ soc.org/page/Meetings
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
 URL:https://conferences.wp.musiclibraryassoc.org/community-choice-call/
@@ -366,7 +372,7 @@ SUMMARY:NATS Cal-Western Region Conference — UNLV (University of Nevada
  \, Las Vegas)\, Las Vegas\, Nevada
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:nats-calwest-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -376,7 +382,7 @@ DESCRIPTION:2027 NATS Cal-Western Region Conference\nConference: Jan 15\,
   none found\nConference info: https://www.calwestnats.org/reg-conference\n
  Evidence: “The 2027 Cal-Western Regional Conference will be held on the 
  campus of UNLV (university of Nevada\, Las Vegas) in Las Vegas\, Nevada fr
- om January 15-17\, 2027.”\nConfidence: high\nLast checked: Oct 21\, 2026
+ om January 15-17\, 2027.”\nConfidence: high\nLast checked: Oct 22\, 2026
  \nSource: https://www.calwestnats.org/reg-conference
 LAST-MODIFIED:20261021T000000Z
 LOCATION:UNLV (University of Nevada\, Las Vegas)\, Las Vegas\, Nevada
@@ -387,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:NATS National Conference — Baltimore\, Maryland
 DTSTART;VALUE=DATE:20280616
 DTEND;VALUE=DATE:20280621
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:nats-national-2028-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -395,7 +401,7 @@ DESCRIPTION:Conference: Jun 16\, 2028 – Jun 20\, 2028\nLocation: Baltimo
  re\, Maryland\nCFP deadline: not posted yet\nCFP link: none found\nConfere
  nce info: https://www.nats.org/national_conference.html\nEvidence: “June
   16 - 20\, 2028 - Baltimore\, Maryland”\nConfidence: high\nLast checked:
-  Oct 21\, 2026\nSource: https://www.nats.org/national_conference.html
+  Oct 22\, 2026\nSource: https://www.nats.org/national_conference.html
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Baltimore\, Maryland
 TRANSP:TRANSPARENT
@@ -405,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:Northwest Voice — Seattle\, Washington
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:nw-voice-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -415,7 +421,7 @@ DESCRIPTION:Northwest Voice: The Art and Science of the Performing Voice C
   https://www.northwestvoice.org/aspv/\nConference info: https://www.northw
  estvoice.org/\nEvidence: “April 30 - May 1\, 2027”\nEvidence: “Submi
  ssion deadline: January 15\, 2027”\nConfidence: high\nLast checked: Oct 
- 21\, 2026\nSource: https://www.northwestvoice.org/
+ 22\, 2026\nSource: https://www.northwestvoice.org/
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Seattle\, Washington
 TRANSP:TRANSPARENT
@@ -425,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: Northwest Voice
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:nw-voice-2027-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -435,7 +441,7 @@ DESCRIPTION:Northwest Voice: The Art and Science of the Performing Voice C
   https://www.northwestvoice.org/aspv/\nConference info: https://www.northw
  estvoice.org/\nEvidence: “Submission deadline: January 15\, 2027”\nEvi
  dence: “April 30 - May 1\, 2027”\nConfidence: high\nLast checked: Oct 
- 21\, 2026\nSource: https://www.northwestvoice.org/
+ 22\, 2026\nSource: https://www.northwestvoice.org/
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
 URL:https://www.northwestvoice.org/aspv/
@@ -454,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:CFP in 30 days: NW Voice
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:nw-voice-2027-cfp-30d@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -464,7 +470,7 @@ DESCRIPTION:Northwest Voice: The Art and Science of the Performing Voice C
   https://www.northwestvoice.org/aspv/\nConference info: https://www.northw
  estvoice.org/\nEvidence: “Submission deadline: January 15\, 2027”\nEvi
  dence: “April 30 - May 1\, 2027”\nConfidence: high\nLast checked: Oct 
- 21\, 2026\nSource: https://www.northwestvoice.org/
+ 22\, 2026\nSource: https://www.northwestvoice.org/
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
 URL:https://www.northwestvoice.org/aspv/
@@ -473,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:CFP in 7 days: NW Voice
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:nw-voice-2027-cfp-7d@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -483,7 +489,7 @@ DESCRIPTION:Northwest Voice: The Art and Science of the Performing Voice C
   https://www.northwestvoice.org/aspv/\nConference info: https://www.northw
  estvoice.org/\nEvidence: “Submission deadline: January 15\, 2027”\nEvi
  dence: “April 30 - May 1\, 2027”\nConfidence: high\nLast checked: Oct 
- 21\, 2026\nSource: https://www.northwestvoice.org/
+ 22\, 2026\nSource: https://www.northwestvoice.org/
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
 URL:https://www.northwestvoice.org/aspv/
@@ -492,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:Sin City Laryngology — Las Vegas
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:sin-city-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -500,7 +506,7 @@ DESCRIPTION:Advanced Practices in Voice & Dysphagia\nConference: Feb 17\,
  2027 – Feb 20\, 2027\nLocation: Las Vegas (in-person)\nCFP deadline: not
   posted yet\nCFP link: none found\nConference info: https://sincitylaryngo
  logy.com/\nEvidence: “February 17-20\, 2027”\nConfidence: high\nLast c
- hecked: Oct 21\, 2026\nSource: https://sincitylaryngology.com/
+ hecked: Oct 22\, 2026\nSource: https://sincitylaryngology.com/
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Las Vegas
 TRANSP:TRANSPARENT
@@ -510,7 +516,7 @@ BEGIN:VEVENT
 SUMMARY:Voice Foundation Annual Symposium — Philadelphia\, Pennsylvania
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270607
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:tvf-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -521,7 +527,7 @@ DESCRIPTION:56th Annual Symposium: Care of the Professional Voice\nConfere
  r 31st\, 2026\nCFP link: https://voicefoundation.org/abstract-submission/
  \nConference info: https://voicefoundation.org/call-for-papers/\nEvidence:
   “June 2nd – June 6th\, 2027”\nEvidence: “Abstract submission dead
- line: October 31st\, 2026”\nConfidence: high\nLast checked: Oct 21\, 202
+ line: October 31st\, 2026”\nConfidence: high\nLast checked: Oct 22\, 202
  6\nSource: https://www.voicefoundation.org/
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Philadelphia\, Pennsylvania
@@ -532,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: Voice Foundation Annual Symposium
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:tvf-2027-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -543,7 +549,7 @@ DESCRIPTION:56th Annual Symposium: Care of the Professional Voice\nConfere
  r 31st\, 2026\nCFP link: https://voicefoundation.org/abstract-submission/
  \nConference info: https://voicefoundation.org/call-for-papers/\nEvidence:
   “Abstract submission deadline: October 31st\, 2026”\nEvidence: “Jun
- e 2nd – June 6th\, 2027”\nConfidence: high\nLast checked: Oct 21\, 202
+ e 2nd – June 6th\, 2027”\nConfidence: high\nLast checked: Oct 22\, 202
  6\nSource: https://www.voicefoundation.org/
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
@@ -563,7 +569,7 @@ BEGIN:VEVENT
 SUMMARY:CFP in 7 days: Voice Foundation
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261022T032146Z
+DTSTAMP:20261022T032839Z
 UID:tvf-2027-cfp-7d@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -574,7 +580,7 @@ DESCRIPTION:56th Annual Symposium: Care of the Professional Voice\nConfere
  r 31st\, 2026\nCFP link: https://voicefoundation.org/abstract-submission/
  \nConference info: https://voicefoundation.org/call-for-papers/\nEvidence:
   “Abstract submission deadline: October 31st\, 2026”\nEvidence: “Jun
- e 2nd – June 6th\, 2027”\nConfidence: high\nLast checked: Oct 21\, 202
+ e 2nd – June 6th\, 2027”\nConfidence: high\nLast checked: Oct 22\, 202
  6\nSource: https://www.voicefoundation.org/
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
