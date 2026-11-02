@@ -75,16 +75,6 @@ LINK: Timelines for Governance and Conference Planning -> https://drive.google.c
 LINK: College Music Symposium -> https://symposium.music.org/
 LINK: Cultural Expressions In Music (CEM) -> https://www.music.org/cultural-expressions-in-music/cem-overview.html
 
-=== PAGE: https://mvl.music.org/employer/info ===
-Employer Information | The College Music Society
-This site uses cookies to allow us to remember information about you. To find out more about our use of cookies, see our Privacy Policy.
-Accept
-LINK: Job Seeker Info -> https://mvl.music.org/info
-LINK: Employer Info -> https://mvl.music.org/employer/info
-LINK: Register -> https://mvl.music.org/employer/register
-LINK: Info -> https://mvl.music.org/info
-LINK: Info -> https://mvl.music.org/employer/info
-
 === PAGE: https://www.music.org/2026-summit-overview/2026-summit-home.html ===
 2026 CMS Think-Tank Summit-Summits
 Join CMS!

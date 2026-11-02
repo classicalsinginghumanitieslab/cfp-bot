@@ -1,11 +1,11 @@
 {
-  "last_run": "2026-10-26",
+  "last_run": "2026-11-02",
   "records": {
     "cms-international|2027": {
       "cfp_deadline": "2026-05-13",
       "cfp_deadline_time": "11:59pm Mountain Time",
       "cfp_kind": "proposal",
-      "cfp_note": "A supplemental call for site-specific events will follow in Summer 2026.",
+      "cfp_note": null,
       "cfp_url": "https://www.music.org/2027-intl-overview.html",
       "confidence": "high",
       "edition": "2027",
@@ -19,12 +19,9 @@
       "format": null,
       "history": [],
       "info_url": "https://www.music.org/2027-intl-overview.html",
-      "issues": [
-        "location 'Reykjavck, Iceland' dropped: 'Reykjavck' not on the page",
-        "location not found this week; showing last known value"
-      ],
+      "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "location": "Reykjavík, Iceland",
       "missing_since": null,
       "name": "2027 CMS International Conference",
@@ -37,8 +34,8 @@
       "cfp_deadline": "2026-01-05",
       "cfp_deadline_time": "11:59pm Mountain Time",
       "cfp_kind": "proposal",
-      "cfp_note": "Special call for student poster submissions and featured presentations by CMS Regional Chapter Student Award recipients",
-      "cfp_url": "https://www.music.org/2026-natl-overview.html",
+      "cfp_note": null,
+      "cfp_url": "https://www.music.org/2026-calls-for-program-participation/call-for-eposters-and-table-talks.html",
       "confidence": "high",
       "edition": "2026",
       "end_date": "2026-11-14",
@@ -49,16 +46,23 @@
       },
       "first_seen": "2026-10-21",
       "format": "in-person",
-      "history": [],
+      "history": [
+        {
+          "date": "2026-11-02",
+          "field": "location",
+          "new": "Amway Grand Plaza, Grand Rapids, Michigan",
+          "old": "Grand Rapids Amway Grand Plaza"
+        }
+      ],
       "info_url": "https://www.music.org/2026-natl-overview.html",
       "issues": [],
-      "last_changed": "2026-10-21",
-      "last_checked": "2026-10-26",
-      "location": "Grand Rapids Amway Grand Plaza",
+      "last_changed": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "location": "Amway Grand Plaza, Grand Rapids, Michigan",
       "missing_since": null,
       "name": "Sixty-Ninth National Conference (2026)",
       "region": null,
-      "sequence": 0,
+      "sequence": 1,
       "source_id": "cms-national",
       "start_date": "2026-11-12"
     },
@@ -77,16 +81,23 @@
       },
       "first_seen": "2026-10-21",
       "format": "in-person",
-      "history": [],
+      "history": [
+        {
+          "date": "2026-11-02",
+          "field": "location",
+          "new": "Hilton Denver City Center, Denver, Colorado",
+          "old": "Hilton Denver City Center"
+        }
+      ],
       "info_url": "https://www.music.org/2027-natl-overview.html",
       "issues": [],
-      "last_changed": "2026-10-21",
-      "last_checked": "2026-10-26",
-      "location": "Hilton Denver City Center",
+      "last_changed": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "location": "Hilton Denver City Center, Denver, Colorado",
       "missing_since": null,
       "name": "Seventieth National Conference (2027)",
       "region": null,
-      "sequence": 0,
+      "sequence": 1,
       "source_id": "cms-national",
       "start_date": "2027-11-04"
     },
@@ -109,7 +120,7 @@
       "info_url": "https://www.music.org/events/national-conferences/seventy-first-national-conference-2028.html",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "location": "Manchester Grand Hyatt San Diego",
       "missing_since": null,
       "name": "Seventy-First National Conference (2028)",
@@ -138,7 +149,7 @@
       "info_url": "https://www.music.org/regional-conference-nw.html",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "location": "Pacific Lutheran University",
       "missing_since": null,
       "name": "2027 Northwest Chapter Conference",
@@ -167,7 +178,7 @@
       "info_url": "https://www.music.org/regional-conference-sw.html",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "location": "Southern Utah University",
       "missing_since": null,
       "name": "2027 Southwest Chapter Conference",
@@ -195,7 +206,7 @@
       "info_url": "https://www.fallvoice.org/",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "location": "Minneapolis, MN",
       "missing_since": null,
       "name": "Fall Voice Conference 2027",
@@ -208,15 +219,15 @@
       "cfp_deadline": "2026-11-07",
       "cfp_deadline_time": "11:59pm PDT",
       "cfp_kind": "proposal",
-      "cfp_note": "Community Choice session proposals and second call for poster proposals",
+      "cfp_note": "Community Choice Call for Proposals and Second Call for Poster Proposals",
       "cfp_url": "https://conferences.wp.musiclibraryassoc.org/community-choice-call/",
       "confidence": "high",
       "edition": "2027",
       "end_date": "2027-03-06",
       "evidence": {
         "cfp_deadline": "The Program Committee invites proposals for the Community Choice session, as well as additional poster proposals, by 11:59pm PDT on Saturday, November 7, 2026.",
-        "end_date": "The 96th Annual Meeting of the Music Library Association is scheduled to be held at the Westin Book Cadillac Hotel in Detroit, Michigan, March 3 – 6, 2027.",
-        "start_date": "The 96th Annual Meeting of the Music Library Association is scheduled to be held at the Westin Book Cadillac Hotel in Detroit, Michigan, March 3 – 6, 2027."
+        "end_date": "96th Meeting of the Music Library Association, March 3-6, 2027",
+        "start_date": "96th Meeting of the Music Library Association, March 3-6, 2027"
       },
       "first_seen": "2026-10-21",
       "format": "in-person",
@@ -226,17 +237,23 @@
           "field": "location",
           "new": "Westin Book Cadillac Hotel in Detroit, Michigan",
           "old": "Detroit, Michigan"
+        },
+        {
+          "date": "2026-11-02",
+          "field": "location",
+          "new": "Detroit, Michigan",
+          "old": "Westin Book Cadillac Hotel in Detroit, Michigan"
         }
       ],
       "info_url": "https://conferences.wp.musiclibraryassoc.org/",
       "issues": [],
-      "last_changed": "2026-10-22",
-      "last_checked": "2026-10-26",
-      "location": "Westin Book Cadillac Hotel in Detroit, Michigan",
+      "last_changed": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "location": "Detroit, Michigan",
       "missing_since": null,
-      "name": "96th Annual Meeting of the Music Library Association",
+      "name": "96th Meeting of the Music Library Association",
       "region": null,
-      "sequence": 1,
+      "sequence": 2,
       "source_id": "mla",
       "start_date": "2027-03-03"
     },
@@ -259,7 +276,7 @@
       "info_url": "https://www.calwestnats.org/reg-conference",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "location": "UNLV (University of Nevada, Las Vegas), Las Vegas, Nevada",
       "missing_since": null,
       "name": "2027 NATS Cal-Western Region Conference",
@@ -287,7 +304,7 @@
       "info_url": "https://www.nats.org/national_conference.html",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "location": "Baltimore, Maryland",
       "missing_since": null,
       "name": "NATS National Conference",
@@ -313,10 +330,10 @@
       "first_seen": "2026-10-21",
       "format": "in-person",
       "history": [],
-      "info_url": "https://www.northwestvoice.org/",
+      "info_url": "https://www.northwestvoice.org/intro",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "location": "Seattle, Washington",
       "missing_since": null,
       "name": "Northwest Voice: The Art and Science of the Performing Voice Conference",
@@ -344,7 +361,7 @@
       "info_url": "https://sincitylaryngology.com/",
       "issues": [],
       "last_changed": "2026-10-21",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "location": "Las Vegas",
       "missing_since": null,
       "name": "Advanced Practices in Voice & Dysphagia",
@@ -354,31 +371,38 @@
       "start_date": "2027-02-17"
     },
     "tvf|2027": {
-      "cfp_deadline": "2026-10-31",
+      "cfp_deadline": "2026-11-08",
       "cfp_deadline_time": null,
       "cfp_kind": "abstract",
-      "cfp_note": "Notification of Decision: January 31st, 2027. Abstract Submission September 15th through October 31st, 2026",
-      "cfp_url": "https://voicefoundation.org/abstract-submission/",
-      "confidence": "high",
+      "cfp_note": "Extended from October 31st, 2026",
+      "cfp_url": "https://voicefoundation.org/call-for-papers/",
+      "confidence": "medium",
       "edition": "2027",
       "end_date": "2027-06-06",
       "evidence": {
-        "cfp_deadline": "Abstract submission deadline: October 31st, 2026",
+        "cfp_deadline": "Abstract Submission Extended to November 8th",
         "end_date": "June 2nd – June 6th, 2027",
         "start_date": "June 2nd – June 6th, 2027"
       },
       "first_seen": "2026-10-21",
       "format": null,
-      "history": [],
-      "info_url": "https://voicefoundation.org/call-for-papers/",
+      "history": [
+        {
+          "date": "2026-11-02",
+          "field": "cfp_deadline",
+          "new": "2026-11-08",
+          "old": "2026-10-31"
+        }
+      ],
+      "info_url": "https://voicefoundation.org/annual-symposium/",
       "issues": [],
-      "last_changed": "2026-10-21",
-      "last_checked": "2026-10-26",
+      "last_changed": "2026-11-02",
+      "last_checked": "2026-11-02",
       "location": "Philadelphia, Pennsylvania",
       "missing_since": null,
       "name": "56th Annual Symposium: Care of the Professional Voice",
       "region": null,
-      "sequence": 0,
+      "sequence": 1,
       "source_id": "tvf",
       "start_date": "2027-06-02"
     }
@@ -386,16 +410,17 @@
   "sources": {
     "cms-international": {
       "consecutive_failures": 0,
-      "fingerprint": "522f3e09cd491f87dfc73eb37440492c5b623b0656e123750cce018c1b6ea41a",
-      "last_attempt": "2026-10-26",
+      "fingerprint": "356243888844eacd7a39da576cc69bd9c93201d5dfbf4a7232a0fe7bc0030335",
+      "last_attempt": "2026-11-02",
       "last_error": null,
-      "last_result": "unchanged",
-      "last_success": "2026-10-26",
-      "model": "gemini-3.5-flash-lite",
-      "notes": [],
+      "last_result": "ok",
+      "last_success": "2026-11-02",
+      "model": "gemini-3.6-flash",
+      "notes": [
+        "https://mvl.music.org/employer/info: HTTP 403 (browser)"
+      ],
       "pages": [
         "https://www.music.org/events/international-conferences.html",
-        "https://mvl.music.org/employer/info",
         "https://www.music.org/2026-summit-overview/2026-summit-home.html",
         "https://www.music.org/2027-intl-overview.html",
         "https://www.music.org/cultural-expressions-in-music/cem-overview.html"
@@ -405,7 +430,7 @@
           "cfp_deadline": "2026-05-13",
           "cfp_deadline_time": "11:59pm Mountain Time",
           "cfp_kind": "proposal",
-          "cfp_note": "A supplemental call for site-specific events will follow in Summer 2026.",
+          "cfp_note": null,
           "cfp_url": "https://www.music.org/2027-intl-overview.html",
           "confidence": "high",
           "end_date": "2027-06-12",
@@ -416,27 +441,28 @@
           },
           "format": null,
           "info_url": "https://www.music.org/2027-intl-overview.html",
-          "location": "Reykjavck, Iceland",
+          "location": "Reykjavík, Iceland",
           "name": "2027 CMS International Conference",
           "region": null,
           "start_date": "2027-06-06",
           "year": "2027"
         }
       ],
-      "used_browser": true
+      "used_browser": false
     },
     "cms-national": {
       "consecutive_failures": 0,
-      "fingerprint": "ffeae854219ca4aad03aec3e0b936cabdbf6700f55667580eb08ff49d88419cd",
-      "last_attempt": "2026-10-26",
+      "fingerprint": "70dff93245b45eb833adfe9cef125d957474b16f6b71a48b55eccd0df1fc5b42",
+      "last_attempt": "2026-11-02",
       "last_error": null,
-      "last_result": "unchanged",
-      "last_success": "2026-10-26",
-      "model": "gemini-3.5-flash-lite",
-      "notes": [],
+      "last_result": "ok",
+      "last_success": "2026-11-02",
+      "model": "gemini-3.6-flash",
+      "notes": [
+        "https://mvl.music.org/employer/info: HTTP 403 (browser)"
+      ],
       "pages": [
         "https://www.music.org/events/national-conferences.html",
-        "https://mvl.music.org/employer/info",
         "https://www.music.org/2026-summit-overview/2026-summit-home.html",
         "https://www.music.org/2026-natl-overview.html",
         "https://www.music.org/2027-natl-overview.html",
@@ -447,8 +473,8 @@
           "cfp_deadline": "2026-01-05",
           "cfp_deadline_time": "11:59pm Mountain Time",
           "cfp_kind": "proposal",
-          "cfp_note": "Special call for student poster submissions and featured presentations by CMS Regional Chapter Student Award recipients",
-          "cfp_url": null,
+          "cfp_note": null,
+          "cfp_url": "https://www.music.org/2026-calls-for-program-participation/call-for-eposters-and-table-talks.html",
           "confidence": "high",
           "end_date": "2026-11-14",
           "evidence": {
@@ -458,7 +484,7 @@
           },
           "format": null,
           "info_url": "https://www.music.org/2026-natl-overview.html",
-          "location": "Grand Rapids Amway Grand Plaza",
+          "location": "Amway Grand Plaza, Grand Rapids, Michigan",
           "name": "Sixty-Ninth National Conference (2026)",
           "region": null,
           "start_date": "2026-11-12",
@@ -479,7 +505,7 @@
           },
           "format": null,
           "info_url": "https://www.music.org/2027-natl-overview.html",
-          "location": "Hilton Denver City Center",
+          "location": "Hilton Denver City Center, Denver, Colorado",
           "name": "Seventieth National Conference (2027)",
           "region": null,
           "start_date": "2027-11-04",
@@ -507,15 +533,15 @@
           "year": "2028"
         }
       ],
-      "used_browser": true
+      "used_browser": false
     },
     "cms-regional": {
       "consecutive_failures": 0,
       "fingerprint": "3b014e8daa76f1492f82cd546ca8b4f9a662d986db2842799ce05e4f33c334a4",
-      "last_attempt": "2026-10-26",
+      "last_attempt": "2026-11-02",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-26",
+      "last_success": "2026-11-02",
       "model": "gemini-3.5-flash-lite",
       "notes": [],
       "pages": [
@@ -700,10 +726,10 @@
     "fall-voice": {
       "consecutive_failures": 0,
       "fingerprint": "b2ff17913e58e5d1af26675855c905556f69646ae2e6cc770f9a51848b41d4a0",
-      "last_attempt": "2026-10-26",
+      "last_attempt": "2026-11-02",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-26",
+      "last_success": "2026-11-02",
       "model": "gemini-3.5-flash-lite",
       "notes": [],
       "pages": [
@@ -715,10 +741,10 @@
     "icvt": {
       "consecutive_failures": 0,
       "fingerprint": "c4df29416ca2fe36b27ffe0077acc74be30bb9bbbbdd03e87610e5d8f9934165",
-      "last_attempt": "2026-10-26",
+      "last_attempt": "2026-11-02",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-26",
+      "last_success": "2026-11-02",
       "model": "gemini-3.5-flash-lite",
       "notes": [],
       "pages": [
@@ -729,12 +755,12 @@
     },
     "mla": {
       "consecutive_failures": 0,
-      "fingerprint": "b565e7ec28f46cf2aab88c0144bfcd1bad40458bbb549ed8f40b8ad920998b6e",
-      "last_attempt": "2026-10-26",
+      "fingerprint": "2c60b0c332a712a121f71b3f127d5ac8ff6ffed79a7513c8c9213710c6c6e6b6",
+      "last_attempt": "2026-11-02",
       "last_error": null,
-      "last_result": "unchanged",
-      "last_success": "2026-10-26",
-      "model": "gemini-3.8-flash",
+      "last_result": "ok",
+      "last_success": "2026-11-02",
+      "model": "gemini-3.6-flash",
       "notes": [
         "https://www.musiclibraryassoc.org/page/Meetings: HTTP 403 (browser)"
       ],
@@ -748,19 +774,19 @@
           "cfp_deadline": "2026-11-07",
           "cfp_deadline_time": "11:59pm PDT",
           "cfp_kind": "proposal",
-          "cfp_note": "Community Choice session proposals and second call for poster proposals",
+          "cfp_note": "Community Choice Call for Proposals and Second Call for Poster Proposals",
           "cfp_url": "https://conferences.wp.musiclibraryassoc.org/community-choice-call/",
           "confidence": "high",
           "end_date": "2027-03-06",
           "evidence": {
             "cfp_deadline": "The Program Committee invites proposals for the Community Choice session, as well as additional poster proposals, by 11:59pm PDT on Saturday, November 7, 2026.",
-            "end_date": "The 96th Annual Meeting of the Music Library Association is scheduled to be held at the Westin Book Cadillac Hotel in Detroit, Michigan, March 3 – 6, 2027.",
-            "start_date": "The 96th Annual Meeting of the Music Library Association is scheduled to be held at the Westin Book Cadillac Hotel in Detroit, Michigan, March 3 – 6, 2027."
+            "end_date": "96th Meeting of the Music Library Association, March 3-6, 2027",
+            "start_date": "96th Meeting of the Music Library Association, March 3-6, 2027"
           },
           "format": "in-person",
           "info_url": "https://conferences.wp.musiclibraryassoc.org/",
-          "location": "Westin Book Cadillac Hotel in Detroit, Michigan",
-          "name": "96th Annual Meeting of the Music Library Association",
+          "location": "Detroit, Michigan",
+          "name": "96th Meeting of the Music Library Association",
           "region": null,
           "start_date": "2027-03-03",
           "year": "2027"
@@ -771,10 +797,10 @@
     "nats-calwest": {
       "consecutive_failures": 0,
       "fingerprint": "e438643de08f715276387cd243896f0adc503e2384cd7594fa9fd8639cf6c720",
-      "last_attempt": "2026-10-26",
+      "last_attempt": "2026-11-02",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-26",
+      "last_success": "2026-11-02",
       "model": "gemini-3.6-flash",
       "notes": [],
       "pages": [
@@ -786,10 +812,10 @@
     "nats-national": {
       "consecutive_failures": 0,
       "fingerprint": "35a8989b97b69f376d9e7544afccec763b63d5a38333c389de105036f0cbcd98",
-      "last_attempt": "2026-10-26",
+      "last_attempt": "2026-11-02",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-26",
+      "last_success": "2026-11-02",
       "model": "gemini-3.6-flash",
       "notes": [],
       "pages": [
@@ -799,12 +825,12 @@
     },
     "nw-voice": {
       "consecutive_failures": 0,
-      "fingerprint": "92e574cec7e707d6c2280ae32367d8c04ce0009a9892ad866edd7edd550c29ed",
-      "last_attempt": "2026-10-26",
+      "fingerprint": "9ae086237f626ec056c8150d2d39242834b8a6f0228e16d0b2eca35fe6a42e99",
+      "last_attempt": "2026-11-02",
       "last_error": null,
-      "last_result": "unchanged",
-      "last_success": "2026-10-26",
-      "model": "gemini-3.5-flash-lite",
+      "last_result": "ok",
+      "last_success": "2026-11-02",
+      "model": "gemini-3.6-flash",
       "notes": [],
       "pages": [
         "https://www.northwestvoice.org/",
@@ -825,7 +851,7 @@
             "start_date": "April 30 - May 1, 2027"
           },
           "format": "in-person",
-          "info_url": "https://www.northwestvoice.org/",
+          "info_url": "https://www.northwestvoice.org/intro",
           "location": "Seattle, Washington",
           "name": "Northwest Voice: The Art and Science of the Performing Voice Conference",
           "region": null,
@@ -838,10 +864,10 @@
     "pava": {
       "consecutive_failures": 0,
       "fingerprint": "a5a9579ebaa2e9af1a79152c5f6fb71fd16a5edb9a31b2e5aaaf5c9396d01240",
-      "last_attempt": "2026-10-26",
+      "last_attempt": "2026-11-02",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-26",
+      "last_success": "2026-11-02",
       "model": "gemini-3.5-flash-lite",
       "notes": [
         "edition 2026 ignored: already over (2026-10-11)"
@@ -878,10 +904,10 @@
     "sin-city": {
       "consecutive_failures": 0,
       "fingerprint": "1cc8447752c3199828b4ce75af0302387940a2245632d5d73a2a2fd562b3bb67",
-      "last_attempt": "2026-10-26",
+      "last_attempt": "2026-11-02",
       "last_error": null,
       "last_result": "unchanged",
-      "last_success": "2026-10-26",
+      "last_success": "2026-11-02",
       "model": "gemini-3.5-flash-lite",
       "notes": [],
       "pages": [
@@ -915,12 +941,12 @@
     },
     "tvf": {
       "consecutive_failures": 0,
-      "fingerprint": "a1714453fc1d49c445761f60f1ce12c15247938d29635cb0b41fbf8d784d0526",
-      "last_attempt": "2026-10-26",
+      "fingerprint": "13f3c8bebbc45aa14a359dcebc3c1f2f90a26ac541e5d6c9b087e6c56897a5e4",
+      "last_attempt": "2026-11-02",
       "last_error": null,
-      "last_result": "unchanged",
-      "last_success": "2026-10-26",
-      "model": "gemini-3.5-flash-lite",
+      "last_result": "ok",
+      "last_success": "2026-11-02",
+      "model": "gemini-3.6-flash",
       "notes": [],
       "pages": [
         "https://voicefoundation.org/",
@@ -932,20 +958,20 @@
       ],
       "raw_editions": [
         {
-          "cfp_deadline": "2026-10-31",
+          "cfp_deadline": "2026-11-08",
           "cfp_deadline_time": null,
           "cfp_kind": "abstract",
-          "cfp_note": "Notification of Decision: January 31st, 2027. Abstract Submission September 15th through October 31st, 2026",
-          "cfp_url": "https://voicefoundation.org/abstract-submission/",
+          "cfp_note": "Extended from October 31st, 2026",
+          "cfp_url": "https://voicefoundation.org/call-for-papers/",
           "confidence": "high",
           "end_date": "2027-06-06",
           "evidence": {
-            "cfp_deadline": "Abstract submission deadline: October 31st, 2026",
+            "cfp_deadline": "Abstract Submission Extended to November 8th",
             "end_date": "June 2nd – June 6th, 2027",
             "start_date": "June 2nd – June 6th, 2027"
           },
           "format": null,
-          "info_url": "https://voicefoundation.org/call-for-papers/",
+          "info_url": "https://voicefoundation.org/annual-symposium/",
           "location": "Philadelphia, Pennsylvania",
           "name": "56th Annual Symposium: Care of the Professional Voice",
           "region": null,
