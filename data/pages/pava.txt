@@ -39,8 +39,6 @@ InFormant Interviews
 !Bienvenidos!
 Welcome!
 Bem-vindo!
-LEARN MORE
-MÁS INFORMACIÓN
 Somos una asociación sin fines de lucro 501(c)(6) compuesta por profesionales de la voz de todas las vocaciones relacionadas con la voz, incluidos fonoaudiólogos s o logopedas, otorrinolaringólogos, cantantes profesionales, profesores de voz, entrenadores de voz para actuación, directores musicales, directores de escena y otros que trabajan con la vocalización humana y animal.
 Convertirse en miembro /
 Renovar
@@ -62,7 +60,6 @@ Please wait...
 LINK: PAVA-RV General Information -> https://pavavocology.org/PAVA-RV-General-Information
 LINK: InFormant Newsletter -> https://pavavocology.org/InFormantNewsletter
 LINK: InFormant Interviews -> https://pavavocology.org/page-18090
-LINK: MÁS INFORMACIÓN -> http://pavasymposium.org/
 
 === PAGE: https://pavasymposium.org/ ===
 Homepage

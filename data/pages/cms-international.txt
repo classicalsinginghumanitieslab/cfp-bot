@@ -63,7 +63,6 @@ Conferences
 History Of CMS
 CMS GenNext Archives
 LINK: Rates, Info, & Online Submission -> https://mvl.music.org/employer/info
-LINK: Think-Tank Summit -> https://www.music.org/2026-summit-overview/2026-summit-home.html
 LINK: Call for Editor -> https://airtable.com/appIRv0Mh5yFTzcfX/pagkF4kuJsipoVIyr/form
 LINK: College Music Symposium -> http://symposium.music.org
 LINK: 2027 CMS International Conference -> https://www.music.org/2027-intl-overview.html
@@ -75,110 +74,15 @@ LINK: Timelines for Governance and Conference Planning -> https://drive.google.c
 LINK: College Music Symposium -> https://symposium.music.org/
 LINK: Cultural Expressions In Music (CEM) -> https://www.music.org/cultural-expressions-in-music/cem-overview.html
 
-=== PAGE: https://www.music.org/2026-summit-overview/2026-summit-home.html ===
-2026 CMS Think-Tank Summit-Summits
-Join CMS!
-Login
-Donate
-Search
-2026 CMS Think-Tank Summit
-Save to
-Google Calendar
-Yahoo Calendar
-Save Ical
-2026 CMS Think-Tank Summit
-January 16-18, 2026
-Moores School of Music at The University of Houston
-Houston, TX
-Ideas into Action:
-Reimagining Music Schools for 2026 and Beyond
-Program Support
-CMS thanks our Summit sponsors whose support makes this gathering possible and impactful.
-Dear CMS Members,
-The College Music Society will host the 2026 Think-Tank Summit, scheduled for January 16–18 at the University of Houston’s Moores School of Music. The Summit theme, “Ideas into Action: Reimagining Music Schools for 2026 and Beyond,” will invite participants to join their CMS colleagues to discuss how educators and administrators can focus on advancing career-focused curricula, fostering innovation, and supporting diverse pathways for today’s music students. Conversations will be centered around the four pillars of Belonging, Creativity, Technology, and Advocacy:
-Belonging
-How can we sustain cultures of belonging regardless of upbringing and background?
-Does all music matter, and if so, how do we represent this value in our curricula?
-How can we reimagine our programming to serve music for all?
-Creativity
-How can we continue to amplify creativity in all that we do?
-What does it mean to balance technique with intention?
-How can we empower our students to sustain multifaceted careers in a rapidly changing creative and economic landscape?
-Technology
-What is the role of technology and AI in the creative process?
-How can we prepare our students for the coming era of AI?
-What lessons from the pandemic ought we better integrate moving forward?
-Advocacy
-How can we collectively advocate for the value of the arts in society?
-What does it mean to empower and encourage our students and community to engage in citizen artistry and socially inspired art?
-How can we make the case for music in higher education to government and society?
-Following this weekend of action-oriented, expert-facilitated discussion and conversations, as well as peer-to-peer networking, participants of the 2026 CMS Think-Tank Summit will serve as active contributors to a guiding document outlining recommendations and strategies for implementing modern, career-focused programs across the academy and beyond.
-Event Summary
-Event Date
-01-16-2026
-Event End Date
-01-18-2026
-Cut off date
-01-19-2026
-Individual Price
-$400.00
-Location
-Moores School of Music at The University of Houston
-Registration is closed.
-Save to
-Google Calendar
-Yahoo Calendar
-Save Ical
-Back
-About CMS Executive Office Staff
-Internship
-Contact Us
-Privacy Policy/Discrimination & Harassment Policy
-Chapter Leadership Resources Chapter Conference PlanningResources for Chapter Presidents
-Resources for Chapter Treasurers
-Timelines for Governance and Conference Planning
-CMS Chapters Central
-Great Lakes
-International
-Mid-Atlantic
-Northeast
-Northwest
-South Central
-Southern
-Southwest
-Student Chapters
-CMS Chapter Boundaries
-The CMS Fund Publications College Music Symposium
-Books & Monographs General Editor's Welcome
-Partnership With Routledge
-Cultural Expressions In Music (CEM)
-Emerging Fields In Music (EFM)
-Pedagogies & Innovations In Music
-Webinars
-CBS Records' Black Composers Series
-CMS Library Presidents' Messages
-Webinars
-Partnerships NAMM
-ATMI
-CMS-NAMM GenNext
-Archives Past Presidents
-Summits
-Conferences
-History Of CMS
-CMS GenNext Archives
-LINK: Rates, Info, & Online Submission -> https://mvl.music.org/employer/info
-LINK: Think-Tank Summit -> https://www.music.org/2026-summit-overview/2026-summit-home.html
-LINK: Call for Editor -> https://airtable.com/appIRv0Mh5yFTzcfX/pagkF4kuJsipoVIyr/form
-LINK: College Music Symposium -> http://symposium.music.org
-LINK: Summit Overview -> https://www.music.org/2026-summit-overview.html
-LINK: Summit Home -> https://www.music.org/2026-summit-overview/2026-summit-home.html
-LINK: Welcome Letter -> https://www.music.org/2026-summit-overview/2026-summit-welcome.html
-LINK: Program PDF -> https://www.music.org/2026-summit-overview/2026-summit-pdf.html
-LINK: Moores School of Music at The University of Houston -> https://www.music.org/2026-summit-overview/2026-summit-home/moores-school-of-music-at-the-university-of-houston/view-map.html?tmpl=component
-LINK: Chapter Conference Planning -> https://drive.google.com/drive/folders/15vBep990GavAfnUa6zLNYWKTm77c3Q7k?usp=sharing
-LINK: Timelines for Governance and Conference Planning -> https://drive.google.com/drive/folders/1byW7mu5gkc6YnESL4u6Zvz7QgD3jvM0O?usp=sharing
-LINK: College Music Symposium -> https://symposium.music.org/
-LINK: Cultural Expressions In Music (CEM) -> https://www.music.org/cultural-expressions-in-music/cem-overview.html
+=== PAGE: https://mvl.music.org/employer/info ===
+Employer Information | The College Music Society
+This site uses cookies to allow us to remember information about you. To find out more about our use of cookies, see our Privacy Policy.
+Accept
+LINK: Job Seeker Info -> https://mvl.music.org/info
+LINK: Employer Info -> https://mvl.music.org/employer/info
+LINK: Register -> https://mvl.music.org/employer/register
+LINK: Info -> https://mvl.music.org/info
+LINK: Info -> https://mvl.music.org/employer/info
 
 === PAGE: https://www.music.org/2027-intl-overview.html ===
 2027 CMS International Conference-International Conferences
@@ -268,7 +172,6 @@ Conferences
 History Of CMS
 CMS GenNext Archives
 LINK: Rates, Info, & Online Submission -> https://mvl.music.org/employer/info
-LINK: Think-Tank Summit -> https://www.music.org/2026-summit-overview/2026-summit-home.html
 LINK: Call for Editor -> https://airtable.com/appIRv0Mh5yFTzcfX/pagkF4kuJsipoVIyr/form
 LINK: College Music Symposium -> http://symposium.music.org
 LINK: Conference Overview -> https://www.music.org/2027-intl-overview.html
@@ -338,7 +241,6 @@ Conferences
 History Of CMS
 CMS GenNext Archives
 LINK: Rates, Info, & Online Submission -> https://mvl.music.org/employer/info
-LINK: Think-Tank Summit -> https://www.music.org/2026-summit-overview/2026-summit-home.html
 LINK: Call for Editor -> https://airtable.com/appIRv0Mh5yFTzcfX/pagkF4kuJsipoVIyr/form
 LINK: College Music Symposium -> http://symposium.music.org
 LINK: About CEM -> https://www.music.org/cultural-expressions-in-music/cem-overview.html

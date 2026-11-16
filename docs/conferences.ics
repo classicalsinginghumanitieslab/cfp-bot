@@ -12,18 +12,20 @@ BEGIN:VEVENT
 SUMMARY:CMS International Conference — Reykjavík\, Iceland
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270613
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:cms-international-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
 DESCRIPTION:2027 CMS International Conference\nConference: Jun 6\, 2027 
  – Jun 12\, 2027\nLocation: Reykjavík\, Iceland\nCFP deadline: May 13\, 
- 2026\, 11:59pm Mountain Time (proposal)\nCFP link: https://www.music.org/2
- 027-intl-overview.html\nConference info: https://www.music.org/2027-intl-o
- verview.html\nEvidence: “06-06-2027”\nEvidence: “06-12-2027”\nEvid
- ence: “All proposals are due no later than 11:59pm Mountain Time on Wedn
- esday\, May 13\, 2026.”\nConfidence: high\nLast checked: Nov 2\, 2026\nS
- ource: https://www.music.org/events/international-conferences.html
+ 2026\, 11:59pm Mountain Time (proposal)\nCFP note: A supplemental call for
+  Site-Specific Events will follow in Summer 2026.\nCFP link: https://www.m
+ usic.org/2027-intl-overview.html\nConference info: https://www.music.org/2
+ 027-intl-overview.html\nEvidence: “06-06-2027”\nEvidence: “06-12-202
+ 7”\nEvidence: “All proposals are due no later than 11:59pm Mountain Ti
+ me on Wednesday\, May 13\, 2026.”\nConfidence: high\nLast checked: Nov 1
+ 6\, 2026\nSource: https://www.music.org/events/international-conferences.h
+ tml
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Reykjavík\, Iceland
 TRANSP:TRANSPARENT
@@ -33,18 +35,20 @@ BEGIN:VEVENT
 SUMMARY:CFP due: CMS International Conference
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:cms-international-2027-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
 DESCRIPTION:2027 CMS International Conference\nConference: Jun 6\, 2027 
  – Jun 12\, 2027\nLocation: Reykjavík\, Iceland\nCFP deadline: May 13\, 
- 2026\, 11:59pm Mountain Time (proposal)\nCFP link: https://www.music.org/2
- 027-intl-overview.html\nConference info: https://www.music.org/2027-intl-o
- verview.html\nEvidence: “All proposals are due no later than 11:59pm Mou
- ntain Time on Wednesday\, May 13\, 2026.”\nEvidence: “06-06-2027”\nE
- vidence: “06-12-2027”\nConfidence: high\nLast checked: Nov 2\, 2026\nS
- ource: https://www.music.org/events/international-conferences.html
+ 2026\, 11:59pm Mountain Time (proposal)\nCFP note: A supplemental call for
+  Site-Specific Events will follow in Summer 2026.\nCFP link: https://www.m
+ usic.org/2027-intl-overview.html\nConference info: https://www.music.org/2
+ 027-intl-overview.html\nEvidence: “All proposals are due no later than 1
+ 1:59pm Mountain Time on Wednesday\, May 13\, 2026.”\nEvidence: “06-06-
+ 2027”\nEvidence: “06-12-2027”\nConfidence: high\nLast checked: Nov 1
+ 6\, 2026\nSource: https://www.music.org/events/international-conferences.h
+ tml
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
 URL:https://www.music.org/2027-intl-overview.html
@@ -64,7 +68,7 @@ SUMMARY:CMS National Conference — Amway Grand Plaza\, Grand Rapids\, Mic
  higan
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:cms-national-2026-conference@cfp-bot
 SEQUENCE:1
 CREATED:20261021T000000Z
@@ -75,10 +79,11 @@ DESCRIPTION:Sixty-Ninth National Conference (2026)\nConference: Nov 12\, 2
  call-for-eposters-and-table-talks.html\nConference info: https://www.music
  .org/2026-natl-overview.html\nEvidence: “November 12 - November 14\, 202
  6”\nEvidence: “All proposals are due no later than 11:59pm Mountain Ti
- me on Monday\, January 5\, 2026.”\nConfidence: high\nLast checked: Nov 2
- \, 2026\nChanged Nov 2: location changed from Grand Rapids Amway Grand Pla
- za to Amway Grand Plaza\, Grand Rapids\, Michigan\nSource: https://www.mus
- ic.org/events/national-conferences.html
+ me on Monday\, January 5\, 2026.”\nConfidence: high\nLast checked: Nov 1
+ 6\, 2026\nNote: no longer listed on the site since Nov 16\, 2026\; showing
+  the last known details.\nChanged Nov 2: location changed from Grand Rapid
+ s Amway Grand Plaza to Amway Grand Plaza\, Grand Rapids\, Michigan\nSource
+ : https://www.music.org/events/national-conferences.html
 LAST-MODIFIED:20261102T000000Z
 LOCATION:Amway Grand Plaza\, Grand Rapids\, Michigan
 TRANSP:TRANSPARENT
@@ -88,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: CMS National Conference
 DTSTART;VALUE=DATE:20260105
 DTEND;VALUE=DATE:20260106
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:cms-national-2026-cfp@cfp-bot
 SEQUENCE:1
 CREATED:20261021T000000Z
@@ -99,10 +104,11 @@ DESCRIPTION:Sixty-Ninth National Conference (2026)\nConference: Nov 12\, 2
  call-for-eposters-and-table-talks.html\nConference info: https://www.music
  .org/2026-natl-overview.html\nEvidence: “All proposals are due no later 
  than 11:59pm Mountain Time on Monday\, January 5\, 2026.”\nEvidence: “
- November 12 - November 14\, 2026”\nConfidence: high\nLast checked: Nov 2
- \, 2026\nChanged Nov 2: location changed from Grand Rapids Amway Grand Pla
- za to Amway Grand Plaza\, Grand Rapids\, Michigan\nSource: https://www.mus
- ic.org/events/national-conferences.html
+ November 12 - November 14\, 2026”\nConfidence: high\nLast checked: Nov 1
+ 6\, 2026\nNote: no longer listed on the site since Nov 16\, 2026\; showing
+  the last known details.\nChanged Nov 2: location changed from Grand Rapid
+ s Amway Grand Plaza to Amway Grand Plaza\, Grand Rapids\, Michigan\nSource
+ : https://www.music.org/events/national-conferences.html
 LAST-MODIFIED:20261102T000000Z
 TRANSP:TRANSPARENT
 URL:https://www.music.org/2026-calls-for-program-participation/call-for-ep
@@ -123,18 +129,18 @@ SUMMARY:CMS National Conference — Hilton Denver City Center\, Denver\, C
  olorado
 DTSTART;VALUE=DATE:20271104
 DTEND;VALUE=DATE:20271107
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:cms-national-2027-conference@cfp-bot
 SEQUENCE:1
 CREATED:20261021T000000Z
 DESCRIPTION:Seventieth National Conference (2027)\nConference: Nov 4\, 202
  7 – Nov 6\, 2027\nLocation: Hilton Denver City Center\, Denver\, Colorad
  o (in-person)\nCFP deadline: not posted yet\nCFP link: none found\nConfere
- nce info: https://www.music.org/2027-natl-overview.html\nEvidence: “Nove
- mber 4 - November 6\, 2027”\nConfidence: high\nLast checked: Nov 2\, 202
- 6\nChanged Nov 2: location changed from Hilton Denver City Center to Hilto
- n Denver City Center\, Denver\, Colorado\nSource: https://www.music.org/ev
- ents/national-conferences.html
+ nce info: https://www.music.org/2027-natl-overview.html\nEvidence: “11-0
+ 4-2027”\nEvidence: “11-06-2027”\nConfidence: high\nLast checked: Nov
+  16\, 2026\nChanged Nov 2: location changed from Hilton Denver City Center
+  to Hilton Denver City Center\, Denver\, Colorado\nSource: https://www.mus
+ ic.org/events/national-conferences.html
 LAST-MODIFIED:20261102T000000Z
 LOCATION:Hilton Denver City Center\, Denver\, Colorado
 TRANSP:TRANSPARENT
@@ -144,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:CMS National Conference — Manchester Grand Hyatt San Diego
 DTSTART;VALUE=DATE:20281116
 DTEND;VALUE=DATE:20281120
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:cms-national-2028-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -153,8 +159,8 @@ DESCRIPTION:Seventy-First National Conference (2028)\nConference: Nov 16\,
  rson)\nCFP deadline: not posted yet\nCFP link: none found\nConference info
  : https://www.music.org/events/national-conferences/seventy-first-national
  -conference-2028.html\nEvidence: “11-16-2028”\nEvidence: “11-19-2028
- ”\nConfidence: high\nLast checked: Nov 2\, 2026\nSource: https://www.mus
- ic.org/events/national-conferences.html
+ ”\nConfidence: high\nLast checked: Nov 16\, 2026\nSource: https://www.mu
+ sic.org/events/national-conferences.html
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Manchester Grand Hyatt San Diego
 TRANSP:TRANSPARENT
@@ -165,19 +171,18 @@ BEGIN:VEVENT
 SUMMARY:CMS Chapter Conference (Northwest) — Pacific Lutheran University
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270404
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:cms-regional-2027-northwest-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
 DESCRIPTION:2027 Northwest Chapter Conference\nConference: Apr 2\, 2027 
  – Apr 3\, 2027\nLocation: Pacific Lutheran University\nCFP deadline: Oct
-  6\, 2026\, 11:59pm Pacific Time (presentation)\nCFP note: Includes calls 
- for Compositions\, Oral Lecture Recitals Performances\, and Oral and Poste
- r Presentations.\nCFP link: none found\nConference info: https://www.music
- .org/regional-conference-nw.html\nEvidence: “04-02-2027”\nEvidence: 
- “04-03-2027”\nEvidence: “Submission Deadline: 11:59pm Pacific Time o
- n Tuesday\, October 6\, 2026”\nConfidence: high\nLast checked: Nov 2\, 2
- 026\nSource: https://www.music.org/events/chapter-conferences.html
+  6\, 2026\, 11:59pm Pacific Time (proposal)\nCFP link: https://www.music.o
+ rg/regional-conference-nw.html\nConference info: https://www.music.org/reg
+ ional-conference-nw.html\nEvidence: “04-02-2027”\nEvidence: “04-03-2
+ 027”\nEvidence: “Submission Deadline: 11:59pm Pacific Time on Tuesday
+ \, October 6\, 2026”\nConfidence: high\nLast checked: Nov 16\, 2026\nSou
+ rce: https://www.music.org/events/chapter-conferences.html
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Pacific Lutheran University
 TRANSP:TRANSPARENT
@@ -187,19 +192,18 @@ BEGIN:VEVENT
 SUMMARY:CFP due: CMS Chapter Conference (Northwest)
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:cms-regional-2027-northwest-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
 DESCRIPTION:2027 Northwest Chapter Conference\nConference: Apr 2\, 2027 
  – Apr 3\, 2027\nLocation: Pacific Lutheran University\nCFP deadline: Oct
-  6\, 2026\, 11:59pm Pacific Time (presentation)\nCFP note: Includes calls 
- for Compositions\, Oral Lecture Recitals Performances\, and Oral and Poste
- r Presentations.\nCFP link: none found\nConference info: https://www.music
- .org/regional-conference-nw.html\nEvidence: “Submission Deadline: 11:59p
- m Pacific Time on Tuesday\, October 6\, 2026”\nEvidence: “04-02-2027
- ”\nEvidence: “04-03-2027”\nConfidence: high\nLast checked: Nov 2\, 2
- 026\nSource: https://www.music.org/events/chapter-conferences.html
+  6\, 2026\, 11:59pm Pacific Time (proposal)\nCFP link: https://www.music.o
+ rg/regional-conference-nw.html\nConference info: https://www.music.org/reg
+ ional-conference-nw.html\nEvidence: “Submission Deadline: 11:59pm Pacifi
+ c Time on Tuesday\, October 6\, 2026”\nEvidence: “04-02-2027”\nEvide
+ nce: “04-03-2027”\nConfidence: high\nLast checked: Nov 16\, 2026\nSour
+ ce: https://www.music.org/events/chapter-conferences.html
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
 URL:https://www.music.org/regional-conference-nw.html
@@ -218,19 +222,18 @@ BEGIN:VEVENT
 SUMMARY:CMS Chapter Conference (Southwest) — Southern Utah University
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:cms-regional-2027-southwest-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
 DESCRIPTION:2027 Southwest Chapter Conference\nConference: Mar 5\, 2027 
  – Mar 6\, 2027\nLocation: Southern Utah University\nCFP deadline: Oct 8
- \, 2026\, 11:59 PM PST (presentation)\nCFP note: Includes calls for Oral &
-  Poster Presentations\, Lecture-Recitals & Performances\, and Compositions
- .\nCFP link: none found\nConference info: https://www.music.org/regional-c
- onference-sw.html\nEvidence: “03-05-2027”\nEvidence: “03-06-2027”
- \nEvidence: “Submission Deadline: 11:59 PM PST October 8\, 2026”\nConf
- idence: high\nLast checked: Nov 2\, 2026\nSource: https://www.music.org/ev
- ents/chapter-conferences.html
+ \, 2026\, 11:59 PM PST (proposal)\nCFP link: https://www.music.org/regiona
+ l-conference-sw.html\nConference info: https://www.music.org/regional-conf
+ erence-sw.html\nEvidence: “03-05-2027”\nEvidence: “03-06-2027”\nEv
+ idence: “Submission Deadline: 11:59 PM PST October 8\, 2026”\nConfiden
+ ce: high\nLast checked: Nov 16\, 2026\nSource: https://www.music.org/event
+ s/chapter-conferences.html
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Southern Utah University
 TRANSP:TRANSPARENT
@@ -240,19 +243,18 @@ BEGIN:VEVENT
 SUMMARY:CFP due: CMS Chapter Conference (Southwest)
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:cms-regional-2027-southwest-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
 DESCRIPTION:2027 Southwest Chapter Conference\nConference: Mar 5\, 2027 
  – Mar 6\, 2027\nLocation: Southern Utah University\nCFP deadline: Oct 8
- \, 2026\, 11:59 PM PST (presentation)\nCFP note: Includes calls for Oral &
-  Poster Presentations\, Lecture-Recitals & Performances\, and Compositions
- .\nCFP link: none found\nConference info: https://www.music.org/regional-c
- onference-sw.html\nEvidence: “Submission Deadline: 11:59 PM PST October 
- 8\, 2026”\nEvidence: “03-05-2027”\nEvidence: “03-06-2027”\nConfi
- dence: high\nLast checked: Nov 2\, 2026\nSource: https://www.music.org/eve
- nts/chapter-conferences.html
+ \, 2026\, 11:59 PM PST (proposal)\nCFP link: https://www.music.org/regiona
+ l-conference-sw.html\nConference info: https://www.music.org/regional-conf
+ erence-sw.html\nEvidence: “Submission Deadline: 11:59 PM PST October 8\,
+  2026”\nEvidence: “03-05-2027”\nEvidence: “03-06-2027”\nConfiden
+ ce: high\nLast checked: Nov 16\, 2026\nSource: https://www.music.org/event
+ s/chapter-conferences.html
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
 URL:https://www.music.org/regional-conference-sw.html
@@ -271,70 +273,79 @@ BEGIN:VEVENT
 SUMMARY:Fall Voice Conference — Minneapolis\, MN
 DTSTART;VALUE=DATE:20271021
 DTEND;VALUE=DATE:20271024
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:fall-voice-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
 DESCRIPTION:Fall Voice Conference 2027\nConference: Oct 21\, 2027 – Oct 
  23\, 2027\nLocation: Minneapolis\, MN\nCFP deadline: not posted yet\nCFP l
  ink: none found\nConference info: https://www.fallvoice.org/\nEvidence: 
- “October 21-23\, 2027”\nConfidence: high\nLast checked: Nov 2\, 2026\n
- Source: https://www.fallvoice.org/
+ “October 21-23\, 2027”\nConfidence: high\nLast checked: Nov 16\, 2026
+ \nSource: https://www.fallvoice.org/
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Minneapolis\, MN
 TRANSP:TRANSPARENT
 URL:https://www.fallvoice.org/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Music Library Association Annual Meeting — Detroit\, Michigan
+SUMMARY:(unconfirmed) Music Library Association Annual Meeting — Westin 
+ Book Cadillac Hotel in Detroit\, Michigan
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270307
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:mla-2027-conference@cfp-bot
-SEQUENCE:2
+SEQUENCE:3
 CREATED:20261021T000000Z
-DESCRIPTION:96th Meeting of the Music Library Association\nConference: Mar
-  3\, 2027 – Mar 6\, 2027\nLocation: Detroit\, Michigan (in-person)\nCFP 
- deadline: Nov 7\, 2026\, 11:59pm PDT (proposal)\nCFP note: Community Choic
- e Call for Proposals and Second Call for Poster Proposals\nCFP link: https
- ://conferences.wp.musiclibraryassoc.org/community-choice-call/\nConference
-  info: https://conferences.wp.musiclibraryassoc.org/\nEvidence: “96th Me
- eting of the Music Library Association\, March 3-6\, 2027”\nEvidence: 
- “The Program Committee invites proposals for the Community Choice sessio
- n\, as well as additional poster proposals\, by 11:59pm PDT on Saturday\, 
- November 7\, 2026.”\nConfidence: high\nLast checked: Nov 2\, 2026\nChang
- ed Nov 2: location changed from Westin Book Cadillac Hotel in Detroit\, Mi
- chigan to Detroit\, Michigan\nChanged Oct 22: location changed from Detroi
- t\, Michigan to Westin Book Cadillac Hotel in Detroit\, Michigan\nSource: 
- https://conferences.wp.musiclibraryassoc.org/
-LAST-MODIFIED:20261102T000000Z
-LOCATION:Detroit\, Michigan
+DESCRIPTION:96th Annual Meeting of the Music Library Association\nConferen
+ ce: Mar 3\, 2027 – Mar 6\, 2027\nLocation: Westin Book Cadillac Hotel in
+  Detroit\, Michigan (in-person)\nCFP deadline: Nov 7\, 2026\, 11:59pm PDT
+ \nCFP link: https://conferences.wp.musiclibraryassoc.org/community-choice-
+ call/\nConference info: https://conferences.wp.musiclibraryassoc.org/\nEvi
+ dence: “The 96th Annual Meeting of the Music Library Association will be
+  held at the Westin Book Cadillac Hotel in Detroit\, Michigan\, March 3 
+ – 6\, 2027.”\nEvidence: “The Program Committee invites proposals for
+  the Community Choice session\, as well as additional poster proposals\, b
+ y 11:59pm PDT on Saturday\, November 7\, 2026.”\nConfidence: low\nLast c
+ hecked: Nov 16\, 2026\nChanged Nov 16: location changed from Detroit\, Mic
+ higan to Westin Book Cadillac Hotel in Detroit\, Michigan\nChanged Nov 2: 
+ location changed from Westin Book Cadillac Hotel in Detroit\, Michigan to 
+ Detroit\, Michigan\nChanged Oct 22: location changed from Detroit\, Michig
+ an to Westin Book Cadillac Hotel in Detroit\, Michigan\nCheck: cfp_deadlin
+ e not found this week\; showing last known value\nCheck: cfp_deadline_time
+  not found this week\; showing last known value\nSource: https://conferenc
+ es.wp.musiclibraryassoc.org/
+LAST-MODIFIED:20261116T000000Z
+LOCATION:Westin Book Cadillac Hotel in Detroit\, Michigan
 TRANSP:TRANSPARENT
 URL:https://conferences.wp.musiclibraryassoc.org/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CFP due: Music Library Association Annual Meeting
+SUMMARY:(unconfirmed) CFP due: Music Library Association Annual Meeting
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:mla-2027-cfp@cfp-bot
-SEQUENCE:2
+SEQUENCE:3
 CREATED:20261021T000000Z
-DESCRIPTION:96th Meeting of the Music Library Association\nConference: Mar
-  3\, 2027 – Mar 6\, 2027\nLocation: Detroit\, Michigan (in-person)\nCFP 
- deadline: Nov 7\, 2026\, 11:59pm PDT (proposal)\nCFP note: Community Choic
- e Call for Proposals and Second Call for Poster Proposals\nCFP link: https
- ://conferences.wp.musiclibraryassoc.org/community-choice-call/\nConference
-  info: https://conferences.wp.musiclibraryassoc.org/\nEvidence: “The Pro
- gram Committee invites proposals for the Community Choice session\, as wel
- l as additional poster proposals\, by 11:59pm PDT on Saturday\, November 7
- \, 2026.”\nEvidence: “96th Meeting of the Music Library Association\, 
- March 3-6\, 2027”\nConfidence: high\nLast checked: Nov 2\, 2026\nChanged
-  Nov 2: location changed from Westin Book Cadillac Hotel in Detroit\, Mich
- igan to Detroit\, Michigan\nChanged Oct 22: location changed from Detroit
- \, Michigan to Westin Book Cadillac Hotel in Detroit\, Michigan\nSource: h
- ttps://conferences.wp.musiclibraryassoc.org/
-LAST-MODIFIED:20261102T000000Z
+DESCRIPTION:96th Annual Meeting of the Music Library Association\nConferen
+ ce: Mar 3\, 2027 – Mar 6\, 2027\nLocation: Westin Book Cadillac Hotel in
+  Detroit\, Michigan (in-person)\nCFP deadline: Nov 7\, 2026\, 11:59pm PDT
+ \nCFP link: https://conferences.wp.musiclibraryassoc.org/community-choice-
+ call/\nConference info: https://conferences.wp.musiclibraryassoc.org/\nEvi
+ dence: “The Program Committee invites proposals for the Community Choice
+  session\, as well as additional poster proposals\, by 11:59pm PDT on Satu
+ rday\, November 7\, 2026.”\nEvidence: “The 96th Annual Meeting of the 
+ Music Library Association will be held at the Westin Book Cadillac Hotel i
+ n Detroit\, Michigan\, March 3 – 6\, 2027.”\nConfidence: low\nLast che
+ cked: Nov 16\, 2026\nChanged Nov 16: location changed from Detroit\, Michi
+ gan to Westin Book Cadillac Hotel in Detroit\, Michigan\nChanged Nov 2: lo
+ cation changed from Westin Book Cadillac Hotel in Detroit\, Michigan to De
+ troit\, Michigan\nChanged Oct 22: location changed from Detroit\, Michigan
+  to Westin Book Cadillac Hotel in Detroit\, Michigan\nCheck: cfp_deadline 
+ not found this week\; showing last known value\nCheck: cfp_deadline_time n
+ ot found this week\; showing last known value\nSource: https://conferences
+ .wp.musiclibraryassoc.org/
+LAST-MODIFIED:20261116T000000Z
 TRANSP:TRANSPARENT
 URL:https://conferences.wp.musiclibraryassoc.org/community-choice-call/
 BEGIN:VALARM
@@ -349,28 +360,32 @@ TRIGGER:-P7D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CFP in 7 days: MLA
+SUMMARY:(unconfirmed) CFP in 7 days: MLA
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:mla-2027-cfp-7d@cfp-bot
-SEQUENCE:2
+SEQUENCE:3
 CREATED:20261021T000000Z
-DESCRIPTION:96th Meeting of the Music Library Association\nConference: Mar
-  3\, 2027 – Mar 6\, 2027\nLocation: Detroit\, Michigan (in-person)\nCFP 
- deadline: Nov 7\, 2026\, 11:59pm PDT (proposal)\nCFP note: Community Choic
- e Call for Proposals and Second Call for Poster Proposals\nCFP link: https
- ://conferences.wp.musiclibraryassoc.org/community-choice-call/\nConference
-  info: https://conferences.wp.musiclibraryassoc.org/\nEvidence: “The Pro
- gram Committee invites proposals for the Community Choice session\, as wel
- l as additional poster proposals\, by 11:59pm PDT on Saturday\, November 7
- \, 2026.”\nEvidence: “96th Meeting of the Music Library Association\, 
- March 3-6\, 2027”\nConfidence: high\nLast checked: Nov 2\, 2026\nChanged
-  Nov 2: location changed from Westin Book Cadillac Hotel in Detroit\, Mich
- igan to Detroit\, Michigan\nChanged Oct 22: location changed from Detroit
- \, Michigan to Westin Book Cadillac Hotel in Detroit\, Michigan\nSource: h
- ttps://conferences.wp.musiclibraryassoc.org/
-LAST-MODIFIED:20261102T000000Z
+DESCRIPTION:96th Annual Meeting of the Music Library Association\nConferen
+ ce: Mar 3\, 2027 – Mar 6\, 2027\nLocation: Westin Book Cadillac Hotel in
+  Detroit\, Michigan (in-person)\nCFP deadline: Nov 7\, 2026\, 11:59pm PDT
+ \nCFP link: https://conferences.wp.musiclibraryassoc.org/community-choice-
+ call/\nConference info: https://conferences.wp.musiclibraryassoc.org/\nEvi
+ dence: “The Program Committee invites proposals for the Community Choice
+  session\, as well as additional poster proposals\, by 11:59pm PDT on Satu
+ rday\, November 7\, 2026.”\nEvidence: “The 96th Annual Meeting of the 
+ Music Library Association will be held at the Westin Book Cadillac Hotel i
+ n Detroit\, Michigan\, March 3 – 6\, 2027.”\nConfidence: low\nLast che
+ cked: Nov 16\, 2026\nChanged Nov 16: location changed from Detroit\, Michi
+ gan to Westin Book Cadillac Hotel in Detroit\, Michigan\nChanged Nov 2: lo
+ cation changed from Westin Book Cadillac Hotel in Detroit\, Michigan to De
+ troit\, Michigan\nChanged Oct 22: location changed from Detroit\, Michigan
+  to Westin Book Cadillac Hotel in Detroit\, Michigan\nCheck: cfp_deadline 
+ not found this week\; showing last known value\nCheck: cfp_deadline_time n
+ ot found this week\; showing last known value\nSource: https://conferences
+ .wp.musiclibraryassoc.org/
+LAST-MODIFIED:20261116T000000Z
 TRANSP:TRANSPARENT
 URL:https://conferences.wp.musiclibraryassoc.org/community-choice-call/
 END:VEVENT
@@ -379,7 +394,7 @@ SUMMARY:NATS Cal-Western Region Conference — UNLV (University of Nevada
  \, Las Vegas)\, Las Vegas\, Nevada
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270118
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:nats-calwest-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -389,7 +404,7 @@ DESCRIPTION:2027 NATS Cal-Western Region Conference\nConference: Jan 15\,
   none found\nConference info: https://www.calwestnats.org/reg-conference\n
  Evidence: “The 2027 Cal-Western Regional Conference will be held on the 
  campus of UNLV (university of Nevada\, Las Vegas) in Las Vegas\, Nevada fr
- om January 15-17\, 2027.”\nConfidence: high\nLast checked: Nov 2\, 2026
+ om January 15-17\, 2027.”\nConfidence: high\nLast checked: Nov 16\, 2026
  \nSource: https://www.calwestnats.org/reg-conference
 LAST-MODIFIED:20261021T000000Z
 LOCATION:UNLV (University of Nevada\, Las Vegas)\, Las Vegas\, Nevada
@@ -400,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:NATS National Conference — Baltimore\, Maryland
 DTSTART;VALUE=DATE:20280616
 DTEND;VALUE=DATE:20280621
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:nats-national-2028-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -408,7 +423,7 @@ DESCRIPTION:Conference: Jun 16\, 2028 – Jun 20\, 2028\nLocation: Baltimo
  re\, Maryland\nCFP deadline: not posted yet\nCFP link: none found\nConfere
  nce info: https://www.nats.org/national_conference.html\nEvidence: “June
   16 - 20\, 2028 - Baltimore\, Maryland”\nConfidence: high\nLast checked:
-  Nov 2\, 2026\nSource: https://www.nats.org/national_conference.html
+  Nov 16\, 2026\nSource: https://www.nats.org/national_conference.html
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Baltimore\, Maryland
 TRANSP:TRANSPARENT
@@ -418,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:Northwest Voice — Seattle\, Washington
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:nw-voice-2027-conference@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -428,7 +443,7 @@ DESCRIPTION:Northwest Voice: The Art and Science of the Performing Voice C
   https://www.northwestvoice.org/aspv/\nConference info: https://www.northw
  estvoice.org/intro\nEvidence: “April 30 - May 1\, 2027”\nEvidence: “
  Submission deadline: January 15\, 2027”\nConfidence: high\nLast checked:
-  Nov 2\, 2026\nSource: https://www.northwestvoice.org/
+  Nov 16\, 2026\nSource: https://www.northwestvoice.org/
 LAST-MODIFIED:20261021T000000Z
 LOCATION:Seattle\, Washington
 TRANSP:TRANSPARENT
@@ -438,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:CFP due: Northwest Voice
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:nw-voice-2027-cfp@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -448,7 +463,7 @@ DESCRIPTION:Northwest Voice: The Art and Science of the Performing Voice C
   https://www.northwestvoice.org/aspv/\nConference info: https://www.northw
  estvoice.org/intro\nEvidence: “Submission deadline: January 15\, 2027”
  \nEvidence: “April 30 - May 1\, 2027”\nConfidence: high\nLast checked:
-  Nov 2\, 2026\nSource: https://www.northwestvoice.org/
+  Nov 16\, 2026\nSource: https://www.northwestvoice.org/
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
 URL:https://www.northwestvoice.org/aspv/
@@ -467,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:CFP in 30 days: NW Voice
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:nw-voice-2027-cfp-30d@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -477,7 +492,7 @@ DESCRIPTION:Northwest Voice: The Art and Science of the Performing Voice C
   https://www.northwestvoice.org/aspv/\nConference info: https://www.northw
  estvoice.org/intro\nEvidence: “Submission deadline: January 15\, 2027”
  \nEvidence: “April 30 - May 1\, 2027”\nConfidence: high\nLast checked:
-  Nov 2\, 2026\nSource: https://www.northwestvoice.org/
+  Nov 16\, 2026\nSource: https://www.northwestvoice.org/
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
 URL:https://www.northwestvoice.org/aspv/
@@ -486,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:CFP in 7 days: NW Voice
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:nw-voice-2027-cfp-7d@cfp-bot
 SEQUENCE:0
 CREATED:20261021T000000Z
@@ -496,26 +511,28 @@ DESCRIPTION:Northwest Voice: The Art and Science of the Performing Voice C
   https://www.northwestvoice.org/aspv/\nConference info: https://www.northw
  estvoice.org/intro\nEvidence: “Submission deadline: January 15\, 2027”
  \nEvidence: “April 30 - May 1\, 2027”\nConfidence: high\nLast checked:
-  Nov 2\, 2026\nSource: https://www.northwestvoice.org/
+  Nov 16\, 2026\nSource: https://www.northwestvoice.org/
 LAST-MODIFIED:20261021T000000Z
 TRANSP:TRANSPARENT
 URL:https://www.northwestvoice.org/aspv/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sin City Laryngology — Las Vegas
+SUMMARY:Sin City Laryngology — Planet Hollywood\, Las Vegas
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270221
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:sin-city-2027-conference@cfp-bot
-SEQUENCE:0
+SEQUENCE:1
 CREATED:20261021T000000Z
 DESCRIPTION:Advanced Practices in Voice & Dysphagia\nConference: Feb 17\, 
- 2027 – Feb 20\, 2027\nLocation: Las Vegas (in-person)\nCFP deadline: not
-  posted yet\nCFP link: none found\nConference info: https://sincitylaryngo
- logy.com/\nEvidence: “February 17-20\, 2027”\nConfidence: high\nLast c
- hecked: Nov 2\, 2026\nSource: https://sincitylaryngology.com/
-LAST-MODIFIED:20261021T000000Z
-LOCATION:Las Vegas
+ 2027 – Feb 20\, 2027\nLocation: Planet Hollywood\, Las Vegas (in-person)
+ \nCFP deadline: not posted yet\nCFP link: none found\nConference info: htt
+ ps://sincitylaryngology.com/\nEvidence: “February 17-20\, 2027”\nConfi
+ dence: high\nLast checked: Nov 16\, 2026\nChanged Nov 16: location changed
+  from Las Vegas to Planet Hollywood\, Las Vegas\nSource: https://sincityla
+ ryngology.com/
+LAST-MODIFIED:20261116T000000Z
+LOCATION:Planet Hollywood\, Las Vegas
 TRANSP:TRANSPARENT
 URL:https://sincitylaryngology.com/
 END:VEVENT
@@ -523,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Voice Foundation Annual Symposium — Philadelphia\, Pennsylvania
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270607
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:tvf-2027-conference@cfp-bot
 SEQUENCE:1
 CREATED:20261021T000000Z
@@ -531,21 +548,21 @@ DESCRIPTION:56th Annual Symposium: Care of the Professional Voice\nConfere
  nce: Jun 2\, 2027 – Jun 6\, 2027\nLocation: Philadelphia\, Pennsylvania
  \nCFP deadline: Nov 8\, 2026 (abstract)\nCFP note: Extended from October 3
  1st\, 2026\nCFP link: https://voicefoundation.org/call-for-papers/\nConfer
- ence info: https://voicefoundation.org/annual-symposium/\nEvidence: “Jun
- e 2nd – June 6th\, 2027”\nEvidence: “Abstract Submission Extended to
-  November 8th”\nConfidence: medium\nLast checked: Nov 2\, 2026\nChanged 
+ ence info: https://voicefoundation.org/call-for-papers/\nEvidence: “June
+  2nd – June 6th\, 2027”\nEvidence: “Abstract Submission Extended to 
+ November 8th”\nConfidence: medium\nLast checked: Nov 16\, 2026\nChanged 
  Nov 2: deadline moved from Oct 31\, 2026 to Nov 8\, 2026\nSource: https://
  www.voicefoundation.org/
 LAST-MODIFIED:20261102T000000Z
 LOCATION:Philadelphia\, Pennsylvania
 TRANSP:TRANSPARENT
-URL:https://voicefoundation.org/annual-symposium/
+URL:https://voicefoundation.org/call-for-papers/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CFP due: Voice Foundation Annual Symposium
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:tvf-2027-cfp@cfp-bot
 SEQUENCE:1
 CREATED:20261021T000000Z
@@ -553,9 +570,9 @@ DESCRIPTION:56th Annual Symposium: Care of the Professional Voice\nConfere
  nce: Jun 2\, 2027 – Jun 6\, 2027\nLocation: Philadelphia\, Pennsylvania
  \nCFP deadline: Nov 8\, 2026 (abstract)\nCFP note: Extended from October 3
  1st\, 2026\nCFP link: https://voicefoundation.org/call-for-papers/\nConfer
- ence info: https://voicefoundation.org/annual-symposium/\nEvidence: “Abs
- tract Submission Extended to November 8th”\nEvidence: “June 2nd – Ju
- ne 6th\, 2027”\nConfidence: medium\nLast checked: Nov 2\, 2026\nChanged 
+ ence info: https://voicefoundation.org/call-for-papers/\nEvidence: “Abst
+ ract Submission Extended to November 8th”\nEvidence: “June 2nd – Jun
+ e 6th\, 2027”\nConfidence: medium\nLast checked: Nov 16\, 2026\nChanged 
  Nov 2: deadline moved from Oct 31\, 2026 to Nov 8\, 2026\nSource: https://
  www.voicefoundation.org/
 LAST-MODIFIED:20261102T000000Z
@@ -576,7 +593,7 @@ BEGIN:VEVENT
 SUMMARY:CFP in 7 days: Voice Foundation
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261102T222413Z
+DTSTAMP:20261116T230019Z
 UID:tvf-2027-cfp-7d@cfp-bot
 SEQUENCE:1
 CREATED:20261021T000000Z
@@ -584,9 +601,9 @@ DESCRIPTION:56th Annual Symposium: Care of the Professional Voice\nConfere
  nce: Jun 2\, 2027 – Jun 6\, 2027\nLocation: Philadelphia\, Pennsylvania
  \nCFP deadline: Nov 8\, 2026 (abstract)\nCFP note: Extended from October 3
  1st\, 2026\nCFP link: https://voicefoundation.org/call-for-papers/\nConfer
- ence info: https://voicefoundation.org/annual-symposium/\nEvidence: “Abs
- tract Submission Extended to November 8th”\nEvidence: “June 2nd – Ju
- ne 6th\, 2027”\nConfidence: medium\nLast checked: Nov 2\, 2026\nChanged 
+ ence info: https://voicefoundation.org/call-for-papers/\nEvidence: “Abst
+ ract Submission Extended to November 8th”\nEvidence: “June 2nd – Jun
+ e 6th\, 2027”\nConfidence: medium\nLast checked: Nov 16\, 2026\nChanged 
  Nov 2: deadline moved from Oct 31\, 2026 to Nov 8\, 2026\nSource: https://
  www.voicefoundation.org/
 LAST-MODIFIED:20261102T000000Z

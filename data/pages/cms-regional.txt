@@ -194,7 +194,6 @@ Conferences
 History Of CMS
 CMS GenNext Archives
 LINK: Rates, Info, & Online Submission -> https://mvl.music.org/employer/info
-LINK: Think-Tank Summit -> https://www.music.org/2026-summit-overview/2026-summit-home.html
 LINK: Call for Editor -> https://airtable.com/appIRv0Mh5yFTzcfX/pagkF4kuJsipoVIyr/form
 LINK: College Music Symposium -> http://symposium.music.org
 LINK: 2027 Southern Chapter Conference -> https://www.music.org/regional-conference-so.html
@@ -276,10 +275,8 @@ Conferences
 History Of CMS
 CMS GenNext Archives
 LINK: Rates, Info, & Online Submission -> https://mvl.music.org/employer/info
-LINK: Think-Tank Summit -> https://www.music.org/2026-summit-overview/2026-summit-home.html
 LINK: Call for Editor -> https://airtable.com/appIRv0Mh5yFTzcfX/pagkF4kuJsipoVIyr/form
 LINK: College Music Symposium -> http://symposium.music.org
-LINK: Call for Nominations -> https://www.music.org/nw-call-for-nominations.html
 LINK: 2027 Chapter Conference -> https://www.music.org/regional-conference-nw.html
 LINK: Chapter Conference Planning -> https://drive.google.com/drive/folders/15vBep990GavAfnUa6zLNYWKTm77c3Q7k?usp=sharing
 LINK: Timelines for Governance and Conference Planning -> https://drive.google.com/drive/folders/1byW7mu5gkc6YnESL4u6Zvz7QgD3jvM0O?usp=sharing
@@ -336,10 +333,8 @@ Conferences
 History Of CMS
 CMS GenNext Archives
 LINK: Rates, Info, & Online Submission -> https://mvl.music.org/employer/info
-LINK: Think-Tank Summit -> https://www.music.org/2026-summit-overview/2026-summit-home.html
 LINK: Call for Editor -> https://airtable.com/appIRv0Mh5yFTzcfX/pagkF4kuJsipoVIyr/form
 LINK: College Music Symposium -> http://symposium.music.org
-LINK: Call for Nominations -> https://www.music.org/sw-call-for-nominations.html
 LINK: 2027 Chapter Conference -> https://www.music.org/regional-conference-sw.html
 LINK: Chapter Conference Planning -> https://drive.google.com/drive/folders/15vBep990GavAfnUa6zLNYWKTm77c3Q7k?usp=sharing
 LINK: Timelines for Governance and Conference Planning -> https://drive.google.com/drive/folders/1byW7mu5gkc6YnESL4u6Zvz7QgD3jvM0O?usp=sharing
@@ -592,10 +587,8 @@ Conferences
 History Of CMS
 CMS GenNext Archives
 LINK: Rates, Info, & Online Submission -> https://mvl.music.org/employer/info
-LINK: Think-Tank Summit -> https://www.music.org/2026-summit-overview/2026-summit-home.html
 LINK: Call for Editor -> https://airtable.com/appIRv0Mh5yFTzcfX/pagkF4kuJsipoVIyr/form
 LINK: College Music Symposium -> http://symposium.music.org
-LINK: Call for Nominations -> https://www.music.org/sw-call-for-nominations.html
 LINK: 2027 Chapter Conference -> https://www.music.org/regional-conference-sw.html
 LINK: Invite Friend -> https://www.music.org/regional-conference-sw/2027-southwest-chapter-conference/invite-friend.html?tmpl=component
 LINK: Visit this page for help using Submittable -> http://help.submittable.com/knowledgebase/topics/11810-submitters
@@ -855,10 +848,8 @@ Conferences
 History Of CMS
 CMS GenNext Archives
 LINK: Rates, Info, & Online Submission -> https://mvl.music.org/employer/info
-LINK: Think-Tank Summit -> https://www.music.org/2026-summit-overview/2026-summit-home.html
 LINK: Call for Editor -> https://airtable.com/appIRv0Mh5yFTzcfX/pagkF4kuJsipoVIyr/form
 LINK: College Music Symposium -> http://symposium.music.org
-LINK: Call for Nominations -> https://www.music.org/nw-call-for-nominations.html
 LINK: 2027 Chapter Conference -> https://www.music.org/regional-conference-nw.html
 LINK: Invite Friend -> https://www.music.org/regional-conference-nw/2027-northwest-chapter-conference/invite-friend.html?tmpl=component
 LINK: Click here for help using Submittable -> http://help.submittable.com/knowledgebase/topics/11810-submitters
