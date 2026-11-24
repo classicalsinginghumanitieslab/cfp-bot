@@ -6,6 +6,7 @@ Donate
 Search
 Chapter Conferences
 2027 Southern Chapter Conference
+Register (Individual)
 Save to
 Google Calendar
 Yahoo Calendar
@@ -17,14 +18,20 @@ Event End Date
 02-06-2027
 Cut off date
 02-07-2027
+Individual Price
+$155.00
+Late Fee
+$30.00 (From 02-04-2027 00:00)
 Location
 Kennesaw State University
+Register (Individual)
 Save to
 Google Calendar
 Yahoo Calendar
 Save Ical
 Details
 2027 Southwest Chapter Conference
+Register (Individual)
 Save to
 Google Calendar
 Yahoo Calendar
@@ -36,14 +43,20 @@ Event End Date
 03-06-2027
 Cut off date
 03-07-2027
+Individual Price
+$170.00
+Late Fee
+$85.00 (From 03-05-2027 00:00)
 Location
 Southern Utah University
+Register (Individual)
 Save to
 Google Calendar
 Yahoo Calendar
 Save Ical
 Details
 2027 Central Chapter Conference
+Register (Individual)
 Save to
 Google Calendar
 Yahoo Calendar
@@ -55,8 +68,13 @@ Event End Date
 03-13-2027
 Cut off date
 03-14-2027
+Individual Price
+$190.00
+Late Fee
+$20.00 (From 03-12-2027 00:00)
 Location
 Missouri State University
+Register (Individual)
 Save to
 Google Calendar
 Yahoo Calendar
@@ -82,6 +100,7 @@ Yahoo Calendar
 Save Ical
 Details
 2027 South Central Chapter Conference
+Register (Individual)
 Save to
 Google Calendar
 Yahoo Calendar
@@ -93,14 +112,20 @@ Event End Date
 03-20-2027
 Cut off date
 03-21-2027
+Individual Price
+$150.00
+Late Fee
+$30.00 (From 03-18-2027 00:00)
 Location
 University of Central Arkansas
+Register (Individual)
 Save to
 Google Calendar
 Yahoo Calendar
 Save Ical
 Details
 2027 Great Lakes Chapter Conference
+Register (Individual)
 Save to
 Google Calendar
 Yahoo Calendar
@@ -112,8 +137,11 @@ Event End Date
 03-20-2027
 Cut off date
 03-21-2027
+Individual Price
+$195.00
 Location
 University of Wisconsin - Eau Claire
+Register (Individual)
 Save to
 Google Calendar
 Yahoo Calendar
@@ -197,21 +225,26 @@ LINK: Rates, Info, & Online Submission -> https://mvl.music.org/employer/info
 LINK: Call for Editor -> https://airtable.com/appIRv0Mh5yFTzcfX/pagkF4kuJsipoVIyr/form
 LINK: College Music Symposium -> http://symposium.music.org
 LINK: 2027 Southern Chapter Conference -> https://www.music.org/regional-conference-so.html
+LINK: Register ( Individual ) -> https://www.music.org/events/2027-southern-chapter-conference/individual-registration.html
 LINK: Details -> https://www.music.org/regional-conference-so.html
 LINK:  -> https://www.music.org/regional-conference-so.html
 LINK: 2027 Southwest Chapter Conference -> https://www.music.org/regional-conference-sw.html
+LINK: Register ( Individual ) -> https://www.music.org/events/2027-southwest-chapter-conference/individual-registration.html
 LINK: Details -> https://www.music.org/regional-conference-sw.html
 LINK:  -> https://www.music.org/regional-conference-sw.html
 LINK: 2027 Central Chapter Conference -> https://www.music.org/chapter-conference-ct.html
+LINK: Register ( Individual ) -> https://www.music.org/events/2027-central-chapter-conference/individual-registration.html
 LINK: Details -> https://www.music.org/chapter-conference-ct.html
 LINK:  -> https://www.music.org/chapter-conference-ct.html
 LINK: 2027 Northeast Chapter Conference -> https://www.music.org/chapter-conference-ne.html
 LINK: Details -> https://www.music.org/chapter-conference-ne.html
 LINK:  -> https://www.music.org/chapter-conference-ne.html
 LINK: 2027 South Central Chapter Conference -> https://www.music.org/regional-conference-sc.html
+LINK: Register ( Individual ) -> https://www.music.org/events/2027-south-central-chapter-conference/individual-registration.html
 LINK: Details -> https://www.music.org/regional-conference-sc.html
 LINK:  -> https://www.music.org/regional-conference-sc.html
 LINK: 2027 Great Lakes Chapter Conference -> https://www.music.org/regional-conference-gl.html
+LINK: Register ( Individual ) -> https://www.music.org/events/2027-great-lakes-chapter-conference/individual-registration.html
 LINK: Details -> https://www.music.org/regional-conference-gl.html
 LINK:  -> https://www.music.org/regional-conference-gl.html
 LINK: 2027 Mid-Atlantic Chapter Conference -> https://www.music.org/regional-conference-ma.html
@@ -348,6 +381,7 @@ Login
 Donate
 Search
 2027 Southwest Chapter Conference
+Register (Individual)
 Save to
 Google Calendar
 Yahoo Calendar
@@ -542,8 +576,13 @@ Event End Date
 03-06-2027
 Cut off date
 03-07-2027
+Individual Price
+$170.00
+Late Fee
+$85.00 (From 03-05-2027 00:00)
 Location
 Southern Utah University
+Register (Individual)
 Save to
 Google Calendar
 Yahoo Calendar
@@ -590,11 +629,66 @@ LINK: Rates, Info, & Online Submission -> https://mvl.music.org/employer/info
 LINK: Call for Editor -> https://airtable.com/appIRv0Mh5yFTzcfX/pagkF4kuJsipoVIyr/form
 LINK: College Music Symposium -> http://symposium.music.org
 LINK: 2027 Chapter Conference -> https://www.music.org/regional-conference-sw.html
+LINK: Register ( Individual ) -> https://www.music.org/regional-conference-sw/individual-registration.html
 LINK: Invite Friend -> https://www.music.org/regional-conference-sw/2027-southwest-chapter-conference/invite-friend.html?tmpl=component
 LINK: Visit this page for help using Submittable -> http://help.submittable.com/knowledgebase/topics/11810-submitters
 LINK: Click here for help using -> http://help.submittable.com/knowledgebase/topics/11810-submitters
 LINK: Submittable -> http://help.submittable.com/knowledgebase/topics/11810-submitters
 LINK: Southern Utah University -> https://www.music.org/regional-conference-sw/southern-utah-university/view-map.html?tmpl=component
+LINK: Chapter Conference Planning -> https://drive.google.com/drive/folders/15vBep990GavAfnUa6zLNYWKTm77c3Q7k?usp=sharing
+LINK: Timelines for Governance and Conference Planning -> https://drive.google.com/drive/folders/1byW7mu5gkc6YnESL4u6Zvz7QgD3jvM0O?usp=sharing
+LINK: College Music Symposium -> https://symposium.music.org/
+LINK: Cultural Expressions In Music (CEM) -> https://www.music.org/cultural-expressions-in-music/cem-overview.html
+
+=== PAGE: https://www.music.org/events/2027-southwest-chapter-conference/individual-registration.html ===
+2027 Southwest Chapter Conference - Individual Registration
+Join CMS!
+Login
+Donate
+Search
+Individual Registration
+CMS MEMBERS: ARE YOU LOGGED IN???
+• CMS members: Please be sure you are logged in (top menu, right) for your membership discount to be applied.
+Please complete the information below to register for the 2027 Southwest Chapter Conference.
+About CMS Executive Office Staff
+Internship
+Contact Us
+Privacy Policy/Discrimination & Harassment Policy
+Chapter Leadership Resources Chapter Conference PlanningResources for Chapter Presidents
+Resources for Chapter Treasurers
+Timelines for Governance and Conference Planning
+CMS Chapters Central
+Great Lakes
+International
+Mid-Atlantic
+Northeast
+Northwest
+South Central
+Southern
+Southwest
+Student Chapters
+CMS Chapter Boundaries
+The CMS Fund Publications College Music Symposium
+Books & Monographs General Editor's Welcome
+Partnership With Routledge
+Cultural Expressions In Music (CEM)
+Emerging Fields In Music (EFM)
+Pedagogies & Innovations In Music
+Webinars
+CBS Records' Black Composers Series
+CMS Library Presidents' Messages
+Webinars
+Partnerships NAMM
+ATMI
+CMS-NAMM GenNext
+Archives Past Presidents
+Summits
+Conferences
+History Of CMS
+CMS GenNext Archives
+LINK: Rates, Info, & Online Submission -> https://mvl.music.org/employer/info
+LINK: Call for Editor -> https://airtable.com/appIRv0Mh5yFTzcfX/pagkF4kuJsipoVIyr/form
+LINK: College Music Symposium -> http://symposium.music.org
 LINK: Chapter Conference Planning -> https://drive.google.com/drive/folders/15vBep990GavAfnUa6zLNYWKTm77c3Q7k?usp=sharing
 LINK: Timelines for Governance and Conference Planning -> https://drive.google.com/drive/folders/1byW7mu5gkc6YnESL4u6Zvz7QgD3jvM0O?usp=sharing
 LINK: College Music Symposium -> https://symposium.music.org/
